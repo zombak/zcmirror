@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+>
+
+<channel>
+	<title>Завтракаст (Zavtracast)</title>
+	<atom:link href="https://zavtracast.ru/podcast/feed?redirect=no" rel="self" type="application/rss+xml" />
+	<link>https://zavtracast.ru/podcast</link>
+	<description>Завтракаст – это самый популярный подкаст про технологии, игры и медиа в России. Веселые ведущие, свежие новости, советы и обсуждения под хорошую музыку и крутыми гостями</description>
+	<lastBuildDate>Sun, 15 Feb 2026 21:38:13 +0000</lastBuildDate>
+	<language>ru</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+
+<image>
+	<url>https://zavtracast.ru/wp-content/uploads/2026/02/cropped-favicon-32x32.png</url>
+	<title>Завтракаст (Zavtracast)</title>
+	<link>https://zavtracast.ru/podcast</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://zavtracast.ru/wp-content/uploads/2025/12/cover4_lowq-1.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Завтракаст (Zavtracast)</itunes:name>
+		<itunes:email>zavtracast@gmail.com</itunes:email>
+	</itunes:owner>
+	<copyright>2015-2026 &#xA9; zavtracast.ru</copyright>
+	<podcast:license>2015-2026 &#xA9; zavtracast.ru</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<image>
+		<title>Завтракаст (Zavtracast)</title>
+		<url>https://zavtracast.ru/wp-content/uploads/2025/12/cover4_lowq-1.jpg</url>
+		<link>https://zavtracast.ru</link>
+	</image>
+	<itunes:category text="Leisure">
+		<itunes:category text="Video Games" />
+	</itunes:category>
+	<itunes:category text="News">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="TV &amp; Film">
+		<itunes:category text="Film Reviews" />
+	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<rawvoice:location>Russia</rawvoice:location>
+	<podcast:location rel="subject">Russia</podcast:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:donate href="https://zavtracast.ru/donate">Занести завтракасту</rawvoice:donate>
+	<podcast:funding url="https://zavtracast.ru/donate">Занести завтракасту</podcast:funding>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>c866c6d3-1542-5c40-a897-c5f3f9911bb5</podcast:guid>
+	<rawvoice:subscribe feed="https://zavtracast.ru/podcast/feed?redirect=no" html="https://zavtracast.ru/about/how-to-subscribe-to-zavtracast" itunes="https://podcasts.apple.com/ru/podcast/zavtracast-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82/id1068329384?l=en" tunein="https://tunein.com/radio/Zavtracast-p884103/" spotify="https://open.spotify.com/show/4AVVfgF6q6v0FfuYV7MYeQ?si=7KCKfLDmSXGDNVyV7o7hXQ"></rawvoice:subscribe>
+	<item>
+		<title>Завтракаст 371 – Метал Гир Татьяна</title>
+		<link>https://zavtracast.ru/371.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Sun, 15 Feb 2026 21:38:12 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[control: resonant]]></category>
+		<category><![CDATA[felvidek]]></category>
+		<category><![CDATA[god of war sons of sparta]]></category>
+		<category><![CDATA[highguard]]></category>
+		<category><![CDATA[metal gear solid 4]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 371]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 371]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст твич]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[ии-пузырь]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[ремейк god of war trilogy]]></category>
+		<category><![CDATA[хайгард]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4303</guid>
+
+					<description><![CDATA[<p>В эфире снова лучший подкаст про игры и технологии – Завтракаст и его трое бессменных ведущих Дима, Тимур и Максим. Правда, в этом выпуске нет Тимура, но мы его не выгнали, он будет в последующих подкастах. Рассказали про то, как прошла PlayStation State of Play и чего там показали, поделились впечатлениями от сериала “Чудо-человек” и метроидовании God of War Sons of Sparta, а также обсудили много чего ещё! И, конечно, музыкальный трек с ИИ-безумием, всё как вы любите. 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  🔗 Каналы ведущих Радио Тимур – https://t.me/radiotimur  Фотодушнила – https://t.me/dushovato  Сказки Дядюшки Зомбака – https://t.me/zombaktales 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: у нас вышел выпуск подкаста СДЗ (Сказки Дядюшки Зомбака) про манускрипт Войнича и другие артефакты, а новый Кабинет Лора уже скоро Слухи-слухские: Wolverine могут показать в марте, а проект Кори Балрога всё ещё в разработке и его покажут летом Highguard прожил всего две недели, так как студию Wildlight разогнали Sony провела неожиданно классный State of Play в этом феврале: показали сиквел Kena: [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/371.html">Завтракаст 371 – Метал Гир Татьяна</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">В эфире снова лучший подкаст про игры и технологии – Завтракаст и его трое бессменных ведущих Дима, Тимур и Максим. Правда, в этом выпуске нет Тимура, но мы его не выгнали, он будет в последующих подкастах. Рассказали про то, как прошла PlayStation State of Play и чего там показали, поделились впечатлениями от сериала “Чудо-человек” и метроидовании God of War Sons of Sparta, а также обсудили много чего ещё! И, конечно, музыкальный трек с ИИ-безумием, всё как вы любите.</span></p>
+<p><span id="more-4303"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Каналы ведущих</span></p>
+<p><span style="font-weight: 400;">Радио Тимур – </span><a href="https://t.me/radiotimur"><span style="font-weight: 400;">https://t.me/radiotimur</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Фотодушнила – </span><a href="https://t.me/dushovato"><span style="font-weight: 400;">https://t.me/dushovato</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Сказки Дядюшки Зомбака – </span><a href="https://t.me/zombaktales"><span style="font-weight: 400;">https://t.me/zombaktales</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: у нас вышел выпуск подкаста СДЗ (Сказки Дядюшки Зомбака) про манускрипт Войнича и другие артефакты, а новый Кабинет Лора уже скоро</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: Wolverine могут показать в марте, а проект Кори Балрога всё ещё в разработке и его покажут летом</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Highguard прожил всего две недели, так как студию Wildlight разогнали</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sony провела неожиданно классный State of Play в этом феврале: показали сиквел Kena: Scars of Kosmora, Krafton представила Project Windless &#8211; мусоу-слэшер про петуха, геймплей Control Resonant, мультиплеер Ghost of Yotei: Legends, Death Stranding 2 выйдет на ПК, Saber анонсировала безымянную игру про Джона Уика, 007 First Light, изометрическую Yakoh Shinobi Ops от создателей тенчу, Crimson Moon который выглядит как новый Darksiders, Star Wars: Galactic Racer, целый блок впечатлений от Konami, среди которых Metal Gear Solid: Master Collection vol. 2 с MGS4 и Peace Walker, новая Castlevania и новый Silent Hill: Townfall. jRPG Re.Noir от продюсера Drakengard 2, переиздание Rayman: 30th Anniversary Edition, файтинги Marvel Tokon: Fighting Souls и новый Dead or Alive, а также ремейк трилогии God of War Trilogy и шедоудроп метроидовании про юность Кратоса.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Toyota делает игровой движок Fluorite для инфотейнмент-систем своих автомобилей</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">У Discord произошёл упси-дейзи момент с требованием документов, а мы обсуждаем усиление цензуры в мире</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп: реклама в ChatGPT, запрет DeepSeek, ИИ не приносит толку на предприятиях</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Музыкальная пауза от Димы длиной 6 минут 40 секунд в жанре джаз</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима прошёл игру Felvidek про средневековую Словакию</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про аниме “Дневник другой страны” (Journal with Witch)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про сериал &#8220;Чудо-человек&#8221; (Wonder Man)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Максим про метроидованию God of War Sons of Sparta</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Когда и почему флопнется ИИ-пузырь </span><span style="font-weight: 400;"><br />
+</span><a href="https://medium.com/predict/500-billion-vanished-yet-nvidia-still-cant-show-the-numbers-32d47a555780"><span style="font-weight: 400;">https://medium.com/predict/500-billion-vanished-yet-nvidia-still-cant-show-the-numbers-32d47a555780</span></a> <span style="font-weight: 400;"><br />
+</span><a href="https://habr.com/ru/companies/bothub/articles/994734/"><span style="font-weight: 400;">https://habr.com/ru/companies/bothub/articles/994734/</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Zombak &#8211; Ретроградный джаз</span><span style="font-weight: 400;"><br />
+</span><a href="https://zavtracast.ru/p/retrogradjazz.mp3"><span style="font-weight: 400;">https://zavtracast.ru/p/retrogradjazz.mp3</span></a><span style="font-weight: 400;"> </span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: Aleksandr Koshelev, Alexey Karpov, Artur Galiullin, Dirondin, Dmitrij Melkov, Egor Ilyin (на бусти и на патреоне), Evgeniy Petrunko, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, mrBurny, mrValery, ms mopsie, Namir, Nikita Strelnikov (на бусти и на патреоне), Pavel Starikov, Sam Furman, Sergei Vaskov, T Yu Jin, vkhotea, Vlad Kisliakov, Wisebird, Wisors, Данатос, Дотер в завязке, Женечка Калинин друг Цареубийцы Джейми (корга), Лубневский Дима, Никита Бескорсый, Олег Ончки, ОпаКенгуру, Петя Третьяков, Сахалинец, Скуфбрия Плазма Пионер, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Цареубийца Джейми (Корг), Я капец как люблю Дмитрия Зомбака, Антон Пряхин, Montroiger, Дристун Замарашка, mr Leroy, fxfortrader.ru, Антон Zephon, Sergei Vaskov, $k@4k()\/, Артем Логинов, astract, Валентин Агеев, N1KRN, Vislavdis, Radamsa, Ильин Егор, Эငκᴑρⲧ Ȝαⲇᴑρᴑƨᴑ+Димка=Искры в темноте, Khelleos, Евгений Богомолов, Миша ждет лета, Александр Еремкин, Yuurrraaaa, Программист на все руки, Мишечная масса (друг Никиторса протеинового насоса), Никиторс (протеиновый насос) друг Мишечной массы, Я капец как люблю Максима Зарецкого, Игорь Саитов, dexter, Янус, Фирсов Егор, Йожег-тян, KEBM, Евгений Нистлер, Konstantin Savusia, Vladimir Korennoy, soshnik, рокетбунни, Дмитрий Коробенков, Антон Ленский, Дмитрий, Nikolay Matrosov, ferzisdis, Я капец как люблю Тимура Сейфельмлюкова, Петр Лаврентьев, Станислав Бартунский, artdzen, Мятная Рысь, Денис Бондаренко, Денис Артюшин, Maksim Lebedev, drontosaur, Екатерина Александровна, Антон Кузнецов, NexonSU, Алексей Паздников и шесть завтрашейхов, которые посчитали нужным остаться анонимными. </span></p>
+<p>Запись <a href="https://zavtracast.ru/371.html">Завтракаст 371 – Метал Гир Татьяна</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast371-metalgeartatyana.mp3" length="124811456" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new371.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>371</itunes:episode>
+		<podcast:episode>371</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:09:11</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 370 – Поставил клована</title>
+		<link>https://zavtracast.ru/370.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Sun, 08 Feb 2026 17:49:34 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[Nvidia 60xx]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 370]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[генератор игр на нейросетях]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 370]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[перезапуск Overwatch]]></category>
+		<category><![CDATA[письма эпштейна]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[почему больше нет 8K телевизоров]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сериал фоллаут]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[сколько стоит стим машин]]></category>
+		<category><![CDATA[хорайзон мультяшный]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4296</guid>
+
+					<description><![CDATA[<p>Лучший подкаст про игры и технологии снова с вами – Завтракаст и его трое бессменных ведущих Дима, Тимур и Максим. Точнее в этом выпуске Максим не смог присоединиться. Ну ничего, вдвоем ребята рассказали про покупку Apple Q ai, новый Xbox, как у Overwatch цифру 2 отняли, Borderlands 4 и многое другое (куча ИИ-слопа). 🙏 Как нам помочь Премиум-подписка на Boosty – https://boosty.to/zavtracast  Такая же на Patreon – https://patreon.com/zavtracast   И еще в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  📝 Шоуноты Новости Завтракаста: проблемы с Apple Podcasts в Беларуси, мы начали новый сезон нашего премиум-подкаста “Кабинет Лора” про Warhammer 40.000, скоро выйдет очень важный новый выпуск СДЗ. Слухи-слухские: AMD случайно не анонсировала новый Xbox, GTA VI всё-таки выйдет в этом ноябре, Starfield выйдет на PS5 7 апреля, Nvidia не выпустит 60хх серию GPU в этом году, как Джеффри Эпштейн помог Бобби Котику сделать монетизацию в CoD, Стивен Синофски и провал Surface RT, производители ТВ похоронили 8К. Valve не уверена в цене на Steam Deck, у Sony и Nintendo всё хорошо на рынке игр, у Xbox всё чудовищно плохо. ИИ-слоп: Copilot теряет пользователей, Apple купила Q.ai от создателя Primesense, Джон Тернус стал главой дизайна Apple, [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/370.html">Завтракаст 370 – Поставил клована</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Лучший подкаст про игры и технологии снова с вами – Завтракаст и его трое бессменных ведущих Дима, Тимур и Максим. Точнее в этом выпуске Максим не смог присоединиться. Ну ничего, вдвоем ребята рассказали про покупку Apple Q ai, новый Xbox, как у Overwatch цифру 2 отняли, Borderlands 4 и многое другое (куча ИИ-слопа).</span></p>
+<p><span id="more-4296"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Такая же на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">И еще в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: проблемы с Apple Podcasts в Беларуси, мы начали новый сезон нашего премиум-подкаста “Кабинет Лора” про Warhammer 40.000, скоро выйдет очень важный новый выпуск СДЗ.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: AMD случайно не анонсировала новый Xbox, GTA VI всё-таки выйдет в этом ноябре, Starfield выйдет на PS5 7 апреля, Nvidia не выпустит 60хх серию GPU в этом году, как Джеффри Эпштейн помог Бобби Котику сделать монетизацию в CoD, Стивен Синофски и провал Surface RT, производители ТВ похоронили 8К.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Valve не уверена в цене на Steam Deck, у Sony и Nintendo всё хорошо на рынке игр, у Xbox всё чудовищно плохо.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп: Copilot теряет пользователей, Apple купила Q.ai от создателя Primesense, Джон Тернус стал главой дизайна Apple, Илон Маск объединяет xAI со SpaceX для нагрева инвесторов на капитализацию, сделка между OpenAI и Nvidia усохла до $20 млрд, генератор миров Genie 3 от Google обвалил акции игровых компаний.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Overwatch перезапустят.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Obsidian разорвалась делать 3 игры в один год, а Avowed и Outer Worlds 2 провалились.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sony наконец-то показала Horizon Hunters Gathering. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про Black Myth: Wukong, Cyberpunk 2077, HackHub, Hail to the Rainbow, Cairn, Escape Simulator 2, Agatha Christie’s Death on Nile.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур и Дима про Borderlands 4.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про старый провальный фильм &#8220;Остров головорезов&#8221; (Cutthroat Island).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про фильм “Дорогой Санта” с Джеком Блэком.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про второй сезон сериала Fallout.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про фильм “Хищник Планета Смерти”.</span></li>
+</ol>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Мы построили мир, который больше не понимаем</span><span style="font-weight: 400;"><br />
+</span><a href="https://habr.com/ru/articles/991614/"><span style="font-weight: 400;">https://habr.com/ru/articles/991614/</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Странные эффекты в процессе обучения и дообучения нейронок<br />
+</span><a href="https://arxiv.org/abs/2512.09742"><span style="font-weight: 400;">https://arxiv.org/abs/2512.09742</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b5.png" alt="🎵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Zombak – Где же Драм? </span><span style="font-weight: 400;"><br />
+</span><a href="https://zavtracast.ru/p/drum.mp3"><span style="font-weight: 400;">https://zavtracast.ru/p/drum.mp3</span></a> <span style="font-weight: 400;"></p>
+<p></span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Алексей Паздников, Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Валентин Агеев, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор (на бусти и на патреоне), Йожег-тян, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Петр Лаврентьев, Петя Третьяков, Программист на все руки, рокетбунни, Сахалинец, Скуфбрия Плазма Пионер, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого балдеет+намокает от голоса Димы, Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, astract, dexter, Dirondin, Dmitrij Melkov, drontosaur, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia, Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov (на бусти и на патреоне), </span><span style="font-weight: 400;">Soshnik, T Yu Jin, Vislavdis, vkhotea, Vlad Kisliakov, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa и шесть Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/370.html">Завтракаст 370 – Поставил клована</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast370-klowan.mp3" length="232576264" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new370.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>370</itunes:episode>
+		<podcast:episode>370</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>4:01:07</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 369 – Котлеты к выходным</title>
+		<link>https://zavtracast.ru/369.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2026 17:12:57 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 369]]></category>
+		<category><![CDATA[бугония]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 369]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[клодбот]]></category>
+		<category><![CDATA[клоудбот]]></category>
+		<category><![CDATA[макрохард]]></category>
+		<category><![CDATA[могури мод]]></category>
+		<category><![CDATA[нвидия куда]]></category>
+		<category><![CDATA[новый принц персии]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[рыцарь семи королевств]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[семья напрокат]]></category>
+		<category><![CDATA[сису 2]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[твистед метал]]></category>
+		<category><![CDATA[фрирен сезон 2]]></category>
+		<category><![CDATA[ффт ремастер]]></category>
+		<category><![CDATA[фэйбл]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4292</guid>
+
+					<description><![CDATA[<p>С вами снова лучший подкаст про игры, технологии, интернет, ИИ, машины, аниме и прочие гиковские штуки – Завтракаст. А также ваши трое виртуальных друзей Дима, Тимур и Максим, которые будут вас развлекать несколько часов к ряду, пристегнитесь! 🙏 Как нам помочь Премиум-подписка на Boosty – https://boosty.to/zavtracast  Такая же на Patreon – https://patreon.com/zavtracast   И еще в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  📝 Шоуноты Новости Завтракаста: проблемы с Apple Podcasts в Беларуси, у нас вышел новый выпуск музыкального подкаста Zavtratunes, мы начали новый сезон нашего премиум-подкаста “Кабинет Лора” про Warhammer 40,000. Слухи-слухские: Samsung поднял закупочные цены на NAND-чипы на 100%, в интернете появился ролик отмененной Project Blackbird от команды TESO, а еще TES VI планировался к выпуску раньше Starfield, GTA VI не будет на дисках до начала 2027 года, Кэтлин Кеннеди и вправду ушла из Lucasfilm, инсайдер Том Хендерсон и его инсайды про Ubisoft. Собственно, что там происходит у Ubisoft – отмена Prince of Persia Sands of Time и других игр. Microsoft показала Forza Horizon 6 в Японии, френдслоп Kiln от Double Fine, геймплей Fable и Beast of Reincarnation от GameFreak. У Windows 11 все чаще выходят сломанные апдейты, а Intel показала внезапно [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/369.html">Завтракаст 369 – Котлеты к выходным</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">С вами снова лучший подкаст про игры, технологии, интернет, ИИ, машины, аниме и прочие гиковские штуки – Завтракаст. А также ваши трое виртуальных друзей Дима, Тимур и Максим, которые будут вас развлекать несколько часов к ряду, пристегнитесь!</span></p>
+<p><span id="more-4292"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Такая же на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">И еще в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: проблемы с Apple Podcasts в Беларуси, у нас вышел новый выпуск музыкального подкаста Zavtratunes, мы начали новый сезон нашего премиум-подкаста “Кабинет Лора” про Warhammer 40,000.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: Samsung поднял закупочные цены на NAND-чипы на 100%, в интернете появился ролик отмененной Project Blackbird от команды TESO, а еще TES VI планировался к выпуску раньше Starfield, GTA VI не будет на дисках до начала 2027 года, Кэтлин Кеннеди и вправду ушла из Lucasfilm, инсайдер Том Хендерсон и его инсайды про Ubisoft.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Собственно, что там происходит у Ubisoft – отмена Prince of Persia Sands of Time и других игр.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Microsoft показала Forza Horizon 6 в Японии, френдслоп Kiln от Double Fine, геймплей Fable и Beast of Reincarnation от GameFreak.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">У Windows 11 все чаще выходят сломанные апдейты, а Intel показала внезапно неплохие новые Core Ultra.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп недели: AI-инфлуенсеры сиамские близнецы, что за Clawdbot такой и зачем он нужен, как с помощью Claude смогли портировать CUDA на другую платформу, OpenAI хочет брать долю с прибыли проектов на их нейронках, Nvidia использовала пиратские библиотеки для обучения нейросетей,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">инженер xAI уволен за раскрытие проекта Macrohard – цифровых двойников офисных сотрудников на мощностях автомобилей Tesla.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Вышла игра Highguard и провалилась.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про фильм “Грешники” (The Sinners).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про фильмы &#8220;Бегущий человек&#8221; (The Running Man) и “Бессмертный: Кровавая дорога домой” (Sisu 2).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про Final Fantasy Tactics Ivalice Chronicles и Final Fantasy 9 Moguri Mod.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим и Тимур про новинки аниме сезона: “Ты и я — полные противоположности”, “Какой сейчас Тамон-кун?”, Mayonaka Heart Tune, второй сезон “Фрирен”.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про сериал “Рыцарь Семи Королевств” (A Knight of the Seven Kingdoms), а также второй сезон сериала Twisted Metal.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про фильм “Семья Напрокат” (Rental Family) с Бренданом Фрейзером.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про фильм “Бугония” (Bugonia).</span></li>
+</ol>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Китай собрался спасать рынок памяти</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.youtube.com/watch?v=qzfhhAfxK-A"><span style="font-weight: 400;">https://www.youtube.com/watch?v=qzfhhAfxK-A</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Как переводили Trails in the Sky SC на английский</span><span style="font-weight: 400;"><br />
+</span><a href="https://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631"><span style="font-weight: 400;">https://kotaku.com/the-curse-of-kiseki-how-one-of-japans-biggest-rpgs-bar-1740055631</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Лицемерие платежных систем</span><span style="font-weight: 400;"><br />
+</span><a href="https://archive.ph/2026.01.26-164240/https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok"><span style="font-weight: 400;">https://archive.ph/2026.01.26-164240/https://www.theverge.com/ai-artificial-intelligence/867874/stripe-visa-mastercard-amex-csam-grok</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b5.png" alt="🎵" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Zombak &#8211; Влюблённый DevOps </span><span style="font-weight: 400;"><br />
+</span><a href="https://zavtracast.ru/p/devops-love.mp3"><span style="font-weight: 400;">https://zavtracast.ru/p/devops-love.mp3</span></a><span style="font-weight: 400;">  </span><span style="font-weight: 400;"> </span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Алексей Паздников, АННАэробная нагрузка (сами знаете чья подруга), Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Валентин Агеев, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор (на бусти и на патреоне), Йожег-тян, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Сахалинец, Скуфбрия Плазма Пионер, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого [ДАННЫЕ УДАЛЕНЫ] Зомбака, Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, astract, dexter, Dirondin, Dmitrij Melkov, drontosaur, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia, Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, Sergei Vaskov, soshnik, T Yu Jin, Vislavdis, vkhotea, Vlad Kisliakov, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa, и шесть Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>&nbsp;</p>
+<p>Запись <a href="https://zavtracast.ru/369.html">Завтракаст 369 – Котлеты к выходным</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast369-weekend.mp3" length="215232047" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new369.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>369</itunes:episode>
+		<podcast:episode>369</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>3:42:48</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 368 – Ну че ты начинаешь</title>
+		<link>https://zavtracast.ru/368.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2026 17:55:25 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[age of empires unreal engine]]></category>
+		<category><![CDATA[iPhone Folio]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Project Apollo]]></category>
+		<category><![CDATA[Seance at Blake Manor]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 368]]></category>
+		<category><![CDATA[zavtratunes]]></category>
+		<category><![CDATA[ведьмак 3 зеррикания]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 368]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[рамки на электронных чернилах]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[хеллблейд 3]]></category>
+		<category><![CDATA[что такое microrgb]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4284</guid>
+
+					<description><![CDATA[<p>С вами первый выпуск Завтракаста в 2026 году! Это подкаст про игры, технологии, ИИ, медиа, кино, сериалы, интернет и прочие гиковские штуки. С вами опять ваши трое виртуальных друзей Дима, Тимур и Максим. Обсуждаем в этот раз выставку CES 2026, Hellblade 3, будущее Starcraft, DLSS 4.5, E-Ink рамки, финал Stranger Things и многое-многое другое. 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  📝 Шоуноты Новости Завтракаста: переподпишитесь на Boosty, если ваша карта внезапно не принимается, у нас вышли новые выпуски “Кабинет Лора” и “СДЗ” в декабре, но самое главное – вышел новый Zavtratunes 12! Слухи-слухские: GTA VI могут перенести ещё раз, как американские компании попрошайничают RAM в Корее, какие игры делает Microsoft в начале 2026 (Hellblade 3, Age of Empires на UE5, возврат Starcraft), Ведьмак 3 может получить DLC про Зерриканию, появились утечки по игре о нолановском Бэтмене от закрытой Monolith из 2009 года, в ближайшие дни может быть мероприятие Ubisoft (покажут AC: Black Flag Resynced, Prince of Persia Sands of Time Remake, The Division Definitive Edition), еще будет директ от Nintendo с кучей новостей 10 [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/368.html">Завтракаст 368 – Ну че ты начинаешь</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">С вами первый выпуск Завтракаста в 2026 году! Это подкаст про игры, технологии, ИИ, медиа, кино, сериалы, интернет и прочие гиковские штуки. С вами опять ваши трое виртуальных друзей Дима, Тимур и Максим.</span></p>
+<p><span style="font-weight: 400;">Обсуждаем в этот раз выставку CES 2026, Hellblade 3, будущее Starcraft, DLSS 4.5, E-Ink рамки, финал Stranger Things и многое-многое другое.</span></p>
+<p><span id="more-4284"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: переподпишитесь на Boosty, если ваша карта внезапно не принимается, у нас вышли новые выпуски “Кабинет Лора” и “СДЗ” в декабре, но самое главное – вышел новый Zavtratunes 12!</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: GTA VI могут перенести ещё раз, как американские компании попрошайничают RAM в Корее, какие игры делает Microsoft в начале 2026 (Hellblade 3, Age of Empires на UE5, возврат Starcraft), Ведьмак 3 может получить DLC про Зерриканию, появились утечки по игре о нолановском Бэтмене от закрытой Monolith из 2009 года, в ближайшие дни может быть мероприятие Ubisoft (покажут AC: Black Flag Resynced, Prince of Persia Sands of Time Remake, The Division Definitive Edition), еще будет директ от Nintendo с кучей новостей 10 февраля (и стримингом на YouTube со Switch 2), новая Legends of Zelda будет с порталами, совсем скоро покажут Persona 6.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости CES: Logitech окирпичил собственные мышки на маках, Дженсен Хуанг пожаловался на собственных потребителей, производители GPU забили на игры, но Nvidia всё же выпустила DLSS 4.5, телевизоры с MicroRGB, Dolby Vision 2 потихоньку идет в массы, показали роутеры на WiFi 8, возвращение мини-ПК внутри клавиатур, Dell вернул XPS, геймпад с рулем GameSir SmartDrive, E-ink рамки от PocketBook (а также Aura Frames и Reflection Frame), Samsung показал новый экран без заломов для складных телефонов (появится в iPhone Folio), ИИ-вайфу и наушники с камерами от Razer, робот для заводов и буровых установок от Boston Dynamics  – новый Atlas 2026, скандал с Trump Phone T1, клавиатура Clicks Phone и смартфон Clicks Communicator, LEGO Smart Brick, пылесос забирающийся на лестницы Roborock Saros и кибер-газонокосилка Roborock RockMow X1 LiDAR, клавиатура Elgato со встроенным Stream Deck.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">iOS 26 стала объективным провалом.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп недели: скандал с Grok от Илона Маска.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Максим про игры Terminator 2D: No Fate, Cleared Hot, A Game About Feeding a Black Hole, Serious Sam: Siberian Mayhem, Lies of P и DLC к ней Overture, а также про DLC Order of Giants к Indiana Jones and the Great Circle.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про Seance at Blake Manor.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про книгу Урсулы ЛеГуин &#8220;Левая Рука Тьмы”.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Тимур про фильм &#8220;Достать ножи: Воскрешение покойника&#8221; (Wake Up Dead Man: A Knives Out Mystery).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур и Дима про френдслоп Peak.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур, Дима и Максим про концовку сериала &#8220;Очень Странные Дела&#8221;.</span></li>
+</ol>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Видео о том, как работают установки ASML для производства чипов </span><a href="https://youtu.be/MiUHjLxm3V0"><span style="font-weight: 400;">https://youtu.be/MiUHjLxm3V0</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">SEC начал расследования по ИИ-стартапам</span><span style="font-weight: 400;"><br />
+</span><a href="https://archive.fo/b6cbQ"><span style="font-weight: 400;">https://archive.fo/b6cbQ</span></a></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Алексей Паздников, АННАэробная нагрузка (сами знаете чья подруга), Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Валентин Агеев, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор, Йожег-тян, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Сахалинец, Скуфбрия Плазма Пионер, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого манит Зомбака в Логово порока, Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, astract, dexter, Dirondin, Dmitrij Melkov, drontosaur, Egor Ilyin, Evgeniy Petrunko, ferzisdis, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia (как Савуся), Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, soshnik, T Yu Jin, Vislavdis, vkhotea, Vlad Kisliakov, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa и шесть Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/368.html">Завтракаст 368 – Ну че ты начинаешь</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast368-nuchegoty.mp3" length="291214155" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new368.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>368</itunes:episode>
+		<podcast:episode>368</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>5:02:23</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 367 – TGA + Итоги Года 2025</title>
+		<link>https://zavtracast.ru/367.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Mon, 29 Dec 2025 00:50:45 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 367]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[во что поиграть]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 367]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[итоги 2025]]></category>
+		<category><![CDATA[лучшее]]></category>
+		<category><![CDATA[лучшие гаджеты 2025]]></category>
+		<category><![CDATA[лучшие игры 2025]]></category>
+		<category><![CDATA[лучшие сериалы 2025]]></category>
+		<category><![CDATA[лучшие фильмы 2025]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[самое интересное]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[что купить]]></category>
+		<category><![CDATA[что посмотреть]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4274</guid>
+
+					<description><![CDATA[<p>Вас приветствует Завтракаст, лучший подкаст про игры, технологии, ИИ, медиа, кино, сериалы, интернет и прочие гиковские штуки. В последнем за 2025 год выпуске мы вспоминаем, что же показали крутого на The Game Awards 2025 в декабре, а также подводим итоги года – фильмы года, сериалы года, игры года, покупки года и многое другое. С вами опять ваши трое виртуальных друзей Дима, Тимур и Максим. 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  📝 Шоуноты Новости подкаста: у нас была сходка подкаста в Казани, вышел новый выпуск нашего премиального Кабинет Лора, ждите 1 января праздничный стрим, а еще мы добавили по вашим просьбам подкаст “Сказки Дядюшки Зомбака” на Spotify. Как прошла The Game Awards 2025: The Free Shepherd, Pragmata, Bradley The Badger, Star Wars: Fate of the Old Republic, новая Divinity, Coven of the Chicken Foot, Ontos, Resident Evil Requiem, Order of the Sinking Stars, Exodus, Control Resonant, Gang of Dragon, куча звезд на шоу Кили, Tomb Raider: Legacy of Atlantis и Catalyst, Forest 3, Orbitals, No Law, Total War: Warhammer 40,000, Ace Combat 8: Wings of [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/367.html">Завтракаст 367 – TGA + Итоги Года 2025</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Вас приветствует Завтракаст, лучший подкаст про игры, технологии, ИИ, медиа, кино, сериалы, интернет и прочие гиковские штуки. В последнем за 2025 год выпуске мы вспоминаем, что же показали крутого на The Game Awards 2025 в декабре, а также подводим итоги года – фильмы года, сериалы года, игры года, покупки года и многое другое. С вами опять ваши трое виртуальных друзей Дима, Тимур и Максим.</span></p>
+<p><span id="more-4274"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: у нас была сходка подкаста в Казани, вышел новый выпуск нашего премиального Кабинет Лора, ждите 1 января праздничный стрим, а еще мы добавили по вашим просьбам подкаст “Сказки Дядюшки Зомбака” на Spotify.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Как прошла The Game Awards 2025: The Free Shepherd</span><b>, </b><span style="font-weight: 400;">Pragmata, Bradley The Badger, Star Wars: Fate of the Old Republic</span><b>, </b><span style="font-weight: 400;">новая Divinity</span><b>, </b><span style="font-weight: 400;">Coven of the Chicken Foot</span><b>, </b><span style="font-weight: 400;">Ontos</span><b>, </b><span style="font-weight: 400;">Resident Evil Requiem, Order of the Sinking Stars, Exodus</span><b>, </b><span style="font-weight: 400;">Control Resonant</span><b>, </b><span style="font-weight: 400;">Gang of Dragon</span><b>, </b><span style="font-weight: 400;">куча звезд на шоу Кили, Tomb Raider: Legacy of Atlantis и Catalyst, Forest 3</span><b>,</b><span style="font-weight: 400;"> Orbitals, No Law, Total War: Warhammer 40,000, Ace Combat 8: Wings of Theve, Phantom Blade Zero</span><b>, </b><span style="font-weight: 400;">Highguard.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Сериалы 2025 года:</span><b><br />
+</b><span style="font-weight: 400;">– </span><i><span style="font-weight: 400;">Не оч: </span></i><span style="font-weight: 400;">Skeleton Crew, Ironheart, Black Mirror (7 сезон), Love, Death &amp; Robots (4 сезон), The Paper, Devil May Cry, Splinter Cell: Deathwatch, The Sandman (2 сезон).</span><i><span style="font-weight: 400;"><br />
+</span></i><i><span style="font-weight: 400;">– Средне: </span></i><span style="font-weight: 400;">Stranger Things (5 сезон), It: Welcome to Darry, Paradise, Pantheon, Invincible (3 сезон), Your Friends &amp; Neighbors, Murderbot, Bon Appétit, Your Majesty.</span><span style="font-weight: 400;"><br />
+</span><i><span style="font-weight: 400;">– Норм</span></i><span style="font-weight: 400;">: Severance, Pluribus, Andor (2 сезон), The Studio, The Pitt, Common Side Effects, Dexter: Original Sin, Dexter: Resurrection, The Eternauta, Alien: Earth, Foundation (3 сезон).</span><span style="font-weight: 400;"><br />
+</span><i><span style="font-weight: 400;">– Не упоминали: </span></i><span style="font-weight: 400;">Mighty Nein, Chair Company, аниме Gnosia. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Аниме 2025 года: “Ты умеешь хранить секреты?”, The Fable, “Оглянись”, Takopi&#8217;s Original Sin, Sono bisuku doru wa koi o suru (2 сезон), Rascal Does Not Dream of Bunny Girl Senpai (2 сезон), The Fragrant Flower Blooms with Dignity, Solo Camping for Two, The Apothecary Diaries (2 сезон).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Фильмы 2025 года: </span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– </span><i><span style="font-weight: 400;">Смерть супергероики: </span></i><span style="font-weight: 400;">Captain America: Brave New World, The Fantastic Four: First Steps, Superman 2025, Thunderbolts*.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Predator: Badlands и Predator: Killer of Killers.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– </span><i><span style="font-weight: 400;">Не оч</span></i><span style="font-weight: 400;">: Tron: Ares, The Gorge, Fountain of Youth, Mission: Impossible – The Final Reckoning, A House of Dynamite.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– </span><i><span style="font-weight: 400;">Норм</span></i><span style="font-weight: 400;">: Nosferatu, Frankenstein, Parthenope, La Venue de L&#8217;avenir, The Life of Chuck, F1: The Movie, Jurassic World: Rebirth, Weapons, The Naked Gun 2025,  Deep Cover, The Phoenician Scheme, Flow, KPop Demon Hunters, The Bad Guys 2, Mountainhead, Swiped, The Thursday Murder Club.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Игры 2025 года:</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Indika, No, I&#8217;m not a Human, Hollow Knight: Silksong, Dispatch, Neon Inferno, Atomic Heart: Enchantment Under the Sea, Monster Hunter Wilds, Indiana Jones and the Great Circle, Assassin&#8217;s Creed Shadows, Ghost of Yotei, Mafia: The Old Country, Silent Hill f, Metroid Prime 4: Beyond, Dark Souls: Remastered (Co-Op), Split Fiction,  Borderlands 4, Gears of War: Reloaded, The Elder Scrolls IV: Oblivion Remastered, Metal Gear Solid Delta: Snake Eater, South of Midnight, Death Stranding 2: On The Beach, One-Eyed Likho, Doom: The Dark Ages, Arc Raiders, Battlefield 6, Clair Obscur: Expedition 33, FINAL FANTASY TACTICS &#8211; The Ivalice Chronicles, Kingdom Come: Deliverance II, Avowed, The Outer Worlds 2, Tainted Grail: The Fall of Avalon, Trails in the Sky 1st Chapter.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Разочарование года: </span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Дима: все связанное с ИИ,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Максим: не прошел Death Stranding 2, слишком стар для Silksong, книга Сапковского “Перекресток Воронов”,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Тимур: камера айфона, обновление операционок Apple с Liquid Glass и в целом что происходит у компании Apple, как работает ChatGPT, Battlefield 6.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Сюрпризы года:</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Дима: купил новый OLED, все подорожало, не купил оперативку, SteamDeck не понравился,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Максим: открыл для себя игровую серию Trails (Kiseki),</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Тимур: кризис памяти, переход на фотоаппарат, разница в аудитории Threads с остальными соцсетями, нейросети Grok Imagine, Zimage, Wan.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Покупка года:</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Дима: читалка Onyx Boox Volta 6,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Максим: монитор Samsung Odyssey G6 OLED, геймпад 8bitdo Ultimate 2, iem-наушники Fiio и Moondrop,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Тимур: Fujifilm X-M5, ракетка против насекомых, Dyson v8, OLED B4, выдувалка violent fan.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Итоги года:</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Дима: игра года Death Stranding 2, очень тяжело ментально под конец года,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Максим: сын Лев и подкаст “Кабинет Лора”, серия Trails,</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">– Тимур: 2,5 года в Португалии и смена ориентиров.</span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Алексей Паздников, АННАэробная нагрузка (сами знаете чья подруга), Антон Кузнецов, Антон Ленский, Артем Логинов, Валентин Агеев, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор, Йожег-тян, Лёд под ногами майора, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Русская разведчица с позывным Эскорт Задорого, Рыбы пердящие в лесу aka iMATROS, Сахалинец, Средиземноморская Скуфбрия, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, astract, dexter, Dirondin, Dmitrij Melkov, drontosaur, Egor Ilyin, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, iSwitch, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia (как Савуся), Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, neoxwolf, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, soshnik, T Yu Jin, Vislavdis, Vlad Kisliakov, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa и шесть Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/367.html">Завтракаст 367 – TGA + Итоги Года 2025</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast367-tga.mp3" length="360090664" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new367.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>367</itunes:episode>
+		<podcast:episode>367</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>7:07:34</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракасту 10 лет</title>
+		<link>https://zavtracast.ru/ten-years.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Thu, 18 Dec 2025 23:33:26 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[10 years]]></category>
+		<category><![CDATA[10 лет]]></category>
+		<category><![CDATA[10 лет подкасту]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast ten years]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[завтракасту 10 лет]]></category>
+		<category><![CDATA[интересные истории]]></category>
+		<category><![CDATA[история завтракаста]]></category>
+		<category><![CDATA[как основали завтракаст]]></category>
+		<category><![CDATA[мемы завтракаста]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[прикольный стрим]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[угарные истории]]></category>
+		<category><![CDATA[юбилей завтракаста]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4258</guid>
+
+					<description><![CDATA[<p>Это праздничный выпуск, посвященный десятилетию Завтракаста – одного из лучших подкастов про игры, медиа и технологии на русском языке. Вот уже десять лет на связь выходят его трое ведущих Дима, Тимур и Максим, а также его временные ведущие вроде Валентина Wylsacom Петухова, Дениса Denis Sexy IT Ширяева и многих других. Мы очень рады, что десятки тысяч человек каждую неделю настраивают свои подкастоприемники в сторону Завтракаста, чтобы провести эти часы со своими виртуальными друзьями. Ну, еще за 15 лет вперед, отметим в 2040-ом! 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: 20 декабря вечером в Казани в пабе Тринити (второй этаж) состоится сходка Завтракаста по адресу Баумана, 44/8.  Вспоминаем как создавался подкаст и всякие интересные истории по этому поводу. К чему мы пришли за эти 10 лет: что обсуждали в первый год, к чему пришли в 2025 году. Что вы не знали про Завтракаст. Кого бы мы хотели поблагодарить за помощь нам за эти 10 лет: Ярослав Ивус, Влад Малыхин, Валентин Петухов, Карина Арутюнян, [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/ten-years.html">Завтракасту 10 лет</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Это праздничный выпуск, посвященный десятилетию Завтракаста – одного из лучших подкастов про игры, медиа и технологии на русском языке. Вот уже десять лет на связь выходят его трое ведущих Дима, Тимур и Максим, а также его временные ведущие вроде Валентина Wylsacom Петухова, Дениса Denis Sexy IT Ширяева и многих других.</span></p>
+<p><span style="font-weight: 400;">Мы очень рады, что десятки тысяч человек каждую неделю настраивают свои подкастоприемники в сторону Завтракаста, чтобы провести эти часы со своими виртуальными друзьями. Ну, еще за 15 лет вперед, отметим в 2040-ом!</span></p>
+<p><span id="more-4258"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: 20 декабря вечером в Казани в пабе Тринити (второй этаж) состоится сходка Завтракаста по адресу Баумана, 44/8. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Вспоминаем как создавался подкаст и всякие интересные истории по этому поводу.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">К чему мы пришли за эти 10 лет: что обсуждали в первый год, к чему пришли в 2025 году.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Что вы не знали про Завтракаст.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Кого бы мы хотели поблагодарить за помощь нам за эти 10 лет: Ярослав Ивус, Влад Малыхин, Валентин Петухов, Карина Арутюнян, Олег Ончки, Женя Делюкин, Руслан Азнабаев, Григорий и Варвара Яффа, Андрей Барышников, Лерика Маллаева, Андрей Загудаев, Денис Ширяев, Юра Турбоджедай, Анфани Тони, Никита Лихачев, Вадим Елистратов, Антон Поздняков, Дмитрий Колодин, Алексей Калачев и Мансур, Вася Мэдморзе, Сережа Васянин, Ваня Евдокимов.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">А еще Азамат Шарафиев, Алекс Колов и жена Максима Алена.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Дима отдельно благодарит Антонио и Артура Галлиулина.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Тимур вспоминает: Гена Евстратов, Антон Благов, Лина Наумова, Евгений Луков, Павел Милашевский, Толя Елизаров, Илья Иванов, Николай Петров, Денис из Амстердама, Алекс из Лиссабона, Женя Ус из Лос-Анджелеса.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Все основные люди из нашего Завтрачата вроде Ильи, Севы, Пан Котека, Болотного Козодоя, Димы Логинова, Макса Лебедева, Андрея Смирнова, Райдера, Драка, Андрея Звездочки и многих-многих других.</span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности нашим самым большим патронам за 10 лет</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">Alex Kolov, Maverick Crank GRey, Artur Galiullin, sofar, T Yu Jin, mrValery, PAVEL PETLICH, Ivan Tkachev, Nikita Strelnikov, Evgeniy Petrunko, Grigoriy Yaffa, mrBurny, Средиземноморская Скуфбрия, Arsenii Vais, Egor Ilyin, Сахалинец, Pavel Starikov, Gennady Evstratov, Лубневский Дима, Alexey Karpov, Flexi, Dirondin, Женечка Калинин друг Цареубийцы Джейми (корга), Valeriya Neborskaya, Цареубийца Джейми (Корг), Алексей Паздников, Drag0n_Master_, Ivan Tkachev, ferzisdis, Khelleos, Денис Артюшин, NexonSU, Денис Бондаренко, Montroiger, Антон Кузнецов, Станислав Бартунский, drontosaur, Maksim Lebedev, Никиторс (протеиновый насос) друг Мишечной массы, Евгений Богомолов, Екатерина Александровна, Станислав Бартунский, Дмитрий Коробенков, Антон Zephon, Dolso, Дристун Замарашка, Мятная Рысь, Артем Логинов, Лёд под ногами майора, Петр Лаврентьев.</span></p>
+<p>Запись <a href="https://zavtracast.ru/ten-years.html">Завтракасту 10 лет</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast10years.mp3" length="246414490" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new10y.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>4:50:52</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 366 – Слухи слухские</title>
+		<link>https://zavtracast.ru/366.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2025 17:29:11 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[stardesk]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 366]]></category>
+		<category><![CDATA[бугония]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[грабитель с крыши]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 366]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[контрол 2]]></category>
+		<category><![CDATA[кэлши]]></category>
+		<category><![CDATA[новый халф лайф]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[принудительная перспектива]]></category>
+		<category><![CDATA[резидент эвил 9]]></category>
+		<category><![CDATA[рутин]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[стардеск]]></category>
+		<category><![CDATA[стартап калши]]></category>
+		<category><![CDATA[тесла оптимус]]></category>
+		<category><![CDATA[хоррор игра]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4255</guid>
+
+					<description><![CDATA[<p>Нужные лучшие новости про технологии и игры, самые интересные слухи, нечего смотреть или не понимаете во что играть – Завтракаст поможет вам. Уже десять лет трое ведущих Дима, Тимур и Максим помогают десяткам тысяч слушателей и зрителей в этом нелегком деле. Вы на пробежке? Едете на работу? Завтракаете? Неважно, трое виртуальных друзей скрасят ваш день диванным экспертным мнением и веселыми шутками (слегка кринжеватыми, но что поделать). 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: 20 декабря вечером в Казани в пабе Тринити (второй этаж) состоится сходка Завтракаста по адресу Баумана, 44/8. А еще 16 декабря будет праздничный лайв-стрим выпуск на нашем YouTube вечером. Слухи недели про анонсы The Game Awards: новая Divinity, игра от одного из создателей Uncharted, Saros от создателей Returnal, Control 2, Леон Кеннеди в Resident Evil 9, новый Tomb Raider и сериал по нему, новая игра из вселенной God of War, римейк Assassin’s Creed: Black Flag Resynced, что-то от Bethesda, Hop-Hope 3 Инвесторы недовольны Square Enix, разбираем презентацию: https://www.3dipartners.com/wp-content/uploads/square-enix-presentation-material-en-202512-1.pdf Netflix [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/366.html">Завтракаст 366 – Слухи слухские</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Нужные лучшие новости про технологии и игры, самые интересные слухи, нечего смотреть или не понимаете во что играть – Завтракаст поможет вам. Уже десять лет трое ведущих Дима, Тимур и Максим помогают десяткам тысяч слушателей и зрителей в этом нелегком деле. Вы на пробежке? Едете на работу? Завтракаете? Неважно, трое виртуальных друзей скрасят ваш день диванным экспертным мнением и веселыми шутками (слегка кринжеватыми, но что поделать).</span></p>
+<p><span id="more-4255"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: 20 декабря вечером в Казани в пабе Тринити (второй этаж) состоится сходка Завтракаста по адресу Баумана, 44/8. А еще 16 декабря будет праздничный лайв-стрим выпуск на нашем YouTube вечером.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи недели про анонсы The Game Awards: новая Divinity, игра от одного из создателей Uncharted, Saros от создателей Returnal, Control 2, Леон Кеннеди в Resident Evil 9, новый Tomb Raider и сериал по нему, новая игра из вселенной God of War, римейк Assassin’s Creed: Black Flag Resynced, что-то от Bethesda, Hop-Hope 3</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Инвесторы недовольны Square Enix, разбираем презентацию: </span><a href="https://www.3dipartners.com/wp-content/uploads/square-enix-presentation-material-en-202512-1.pdf"><span style="font-weight: 400;">https://www.3dipartners.com/wp-content/uploads/square-enix-presentation-material-en-202512-1.pdf</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Netflix пытался купить Warner Bros, но Paramount им мешает.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Activision извинилась за Black Ops 7. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Что такое Kalshi, как они торгуют новым типом активов, которые по факту являются беттингом, и почему это ужасно в глобальном смысле.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп недели: робот Tesla Optimus на индийской тяге, ИИ-реклама будущего от xAI, очередной виток заградительных войн от Трампа и Nividia.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про мелодраму &#8220;Грабитель с крыши&#8221; (Roofman).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про хоррор Routine.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про приложение StarDesk для всех платформ.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про фильм &#8220;Бугония&#8221; (Bugonia).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про “Близкие Контакты Третьей Степени”.</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Блогеры воссоздали принудительную перспективу из Властелина Колец</span><span style="font-weight: 400;"><br />
+</span><a href="https://youtu.be/MVUuoXAkuUg?si=k_XB2Bn48W91U2n8"><span style="font-weight: 400;">https://youtu.be/MVUuoXAkuUg?si=k_XB2Bn48W91U2n8</span></a></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: Александр Еремкин, Алексей Паздников, АННАэробная нагрузка (сами знаете чья подруга), Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор (на бусти и на патреоне), Йожег-тян, Лёд под ногами майора, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в лесу aka iMATROS, Сахалинец, Средиземноморская Скуфбрия, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, dexter, Dirondin, Dmitrij Melkov, drontosaur, Evgeniy Petrunko, ferzisdis, Ford Escort Zadorogo RS отвезёт Макса в Лиссабон, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, iSwitch, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia, Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, Namir, neoxwolf, NexonSU, Nikita Strelnikov (на бусти и на патроне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, soshnik, T Yu Jin, Vislavdis, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa, и пять Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/366.html">Завтракаст 366 – Слухи слухские</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast366-sluhi.mp3" length="192169366" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new366.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>366</itunes:episode>
+		<podcast:episode>366</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>3:19:33</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 365 – Память</title>
+		<link>https://zavtracast.ru/365.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2025 14:56:24 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 365]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 365]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[интервью нвидия]]></category>
+		<category><![CDATA[как поставить z-image]]></category>
+		<category><![CDATA[киану ривз ангел]]></category>
+		<category><![CDATA[метроид прайм 4]]></category>
+		<category><![CDATA[новый легаси оф каин]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[почему оперативка подорожала]]></category>
+		<category><![CDATA[резидент эвил 9]]></category>
+		<category><![CDATA[сдз]]></category>
+		<category><![CDATA[сказки дядюшки зомбака]]></category>
+		<category><![CDATA[странные дела пятый сезон]]></category>
+		<category><![CDATA[тотал вор звездные войны]]></category>
+		<category><![CDATA[тотальный хаос]]></category>
+		<category><![CDATA[хищник планета смерти]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4250</guid>
+
+					<description><![CDATA[<p>С вами в очередной раз новый выпуск лучшего подкаста про технологии, медиакультуру, игры, фильмы, сериалы, ИИ-слоп, автомобили и всё такое прочее на русском языке – Завтракаст. Мы выходим в эфир уже почти 10 лет! В этом выпуске мы обсуждаем дефицит комплектующих для ПК (и памяти в первую очередь), стоит ли играть в Metroid Prime 4, смотреть фильм “Хищник Планета Смерти”, слушать что рассказал в интервью глава Nvidia и многое многое другое! 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: вышел новый выпуск нашего подкаста СДЗ №15, а на наш ДР 16 декабря будет праздничный стрим на нашем ютуб-канале. Слухи недели: снова Half-Life 3, новая Total War может быть про Star Wars, Леона Кеннеди снова обещают в Resident Evil, загадочная статуя в пустыне Мохаве тизерит какую-то игру, Capcom делает новый Dead Rising, ремейка Prince of Persia можно не ждать на TGA, а перезапуск Legacy of Kain отменили. Чипокалипсис: что происходит на рынке потребительской электроники и комплектующих для ПК, почему всё подорожает и причём тут [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/365.html">Завтракаст 365 – Память</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">С вами в очередной раз новый выпуск лучшего подкаста про технологии, медиакультуру, игры, фильмы, сериалы, ИИ-слоп, автомобили и всё такое прочее на русском языке – Завтракаст. Мы выходим в эфир уже почти 10 лет!</span></p>
+<p><span style="font-weight: 400;">В этом выпуске мы обсуждаем дефицит комплектующих для ПК (и памяти в первую очередь), стоит ли играть в Metroid Prime 4, смотреть фильм “Хищник Планета Смерти”, слушать что рассказал в интервью глава Nvidia и многое многое другое!</span></p>
+<p><span id="more-4250"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: вышел новый выпуск нашего подкаста СДЗ №15, а на наш ДР 16 декабря будет праздничный стрим на нашем ютуб-канале.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи недели: снова Half-Life 3, новая Total War может быть про Star Wars, Леона Кеннеди снова обещают в Resident Evil, загадочная статуя в пустыне Мохаве тизерит какую-то игру, Capcom делает новый Dead Rising, ремейка Prince of Persia можно не ждать на TGA, а перезапуск Legacy of Kain отменили.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Чипокалипсис: что происходит на рынке потребительской электроники и комплектующих для ПК, почему всё подорожает и причём тут ИИ.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Обсуждаем истории от Дженсена Хуанга из Nvidia.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Из Jaguar ушел гендиректор, главный дизайнер и другие члены старой команды.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Нейрослоп: Дима про опыт использования Z-Image Turbo, Тимур про неуспехи Apple и замену главного по ИИ, Microsoft снижает свои прогнозы по продаже AI-продуктов.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про хоррор-игру Total Chaos.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про французские фильмы “Авиньон” (Avignon)  и “Цвета Времени” (La venue de l&#8217;avenir).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про игру Metroid Prime 4: Beyond на первом Nintendo Switch.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про фильм &#8220;Хищник: Планета смерти&#8221; (Predator: Badlands).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про фильм “Везунчики” (Good Fortune).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим поиграл в бесплатную китайскую Where Winds Meet.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур, Максим и Дима обсуждают пятый сезон сериала &#8220;Очень странные дела&#8221; (Stranger Things 5).</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Почему дата-центры в космосе плохая идея</span><span style="font-weight: 400;"><br />
+</span><a href="https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/"><span style="font-weight: 400;">https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/</span><span style="font-weight: 400;"><br />
+</span></a><a href="https://t.me/zavtracast/31656"><span style="font-weight: 400;">https://t.me/zavtracast/31656</span></a></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: Александр Еремкин, Алексей Паздников, АННАэробная нагрузка (сами знаете чья подруга), Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Йожег-тян, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в лесу aka iMATROS, Сахалинец, Средиземноморская Скуфбрия, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого Trahodelichno согревает Зомбака, Я капец как люблю Дмитрия Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, dexter, Dirondin, Dmitrij Melkov, drontosaur, Egor Ilyin (на бусти и на патреоне), Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia (как Савуся), Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, Namir, neoxwolf, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, soshnik, T Yu Jin, Vislavdis, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa и пять Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/365.html">Завтракаст 365 – Память</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast365-memory.mp3" length="208983917" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new365.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>365</itunes:episode>
+		<podcast:episode>365</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>3:36:41</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 364 – Окошко Печенек</title>
+		<link>https://zavtracast.ru/364.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2025 13:42:46 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[flux 2]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 364]]></category>
+		<category><![CDATA[варсапура]]></category>
+		<category><![CDATA[веб саммит]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[девгамм]]></category>
+		<category><![CDATA[дестини 3]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 364]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст твич]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[нано банана 2]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[ремастер fft]]></category>
+		<category><![CDATA[сериал фар край]]></category>
+		<category><![CDATA[томб райдер 2026]]></category>
+		<category><![CDATA[фильм гражданская война]]></category>
+		<category><![CDATA[финал фентези тактикс]]></category>
+		<category><![CDATA[флюкс 2]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4237</guid>
+
+					<description><![CDATA[<p>Вы слушаете новый выпуск лучшего подкаста про игры, технологии, фильмы, сериалы, ИИ-слоп, автомобили, фотоаппараты и прочие Вархаммеры на русском языке – Завтракаст. В этом выпуске всего два ведущих Тимур и Максим (Дима заболел), но мы весело обсуждаем важные игровые слухи про новый Tomb Raider, Destiny 3, сериал Far Cry, а также как Тимур сходил на DevGAMM и WebSummit 2025 в Лиссабоне, хороши ли Flux 2, ремастер Final Fantasy Tactics и многое другое. 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: скоро 10 лет подкаста, ждите новый выпуск СДЗ, а еще анонсы интересных интервью. Слухи недели: разработку нового Tomb Raider перезапускали и теперь действие игры в Индии, Destiny 3 находится в ранней разработке, в начале 2026 года выйдет римейк Prince of Persia Sands of Time – и он будет крутым, а еще Ноа Хоули снимет новый сериал по Far Cry. Тимур сходил на DevGAMM и WebSummit 2025 в Лиссабоне. Что показал Xbox на партнерской конфе в ноябре 2025: Armatus, Total Chaos, Zoopunk, Tides of [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/364.html">Завтракаст 364 – Окошко Печенек</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Вы слушаете новый выпуск лучшего подкаста про игры, технологии, фильмы, сериалы, ИИ-слоп, автомобили, фотоаппараты и прочие Вархаммеры на русском языке – Завтракаст. В этом выпуске всего два ведущих Тимур и Максим (Дима заболел), но мы весело обсуждаем важные игровые слухи про новый Tomb Raider, Destiny 3, сериал Far Cry, а также как Тимур сходил на DevGAMM и WebSummit 2025 в Лиссабоне, хороши ли Flux 2, ремастер Final Fantasy Tactics и многое другое.</span></p>
+<p><span id="more-4237"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: скоро 10 лет подкаста, ждите новый выпуск СДЗ, а еще анонсы интересных интервью.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи недели: разработку нового Tomb Raider перезапускали и теперь действие игры в Индии, Destiny 3 находится в ранней разработке, в начале 2026 года выйдет римейк Prince of Persia Sands of Time – и он будет крутым, а еще Ноа Хоули снимет новый сериал по Far Cry.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур сходил на DevGAMM и WebSummit 2025 в Лиссабоне.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Что показал Xbox на партнерской конфе в ноябре 2025: Armatus, Total Chaos, Zoopunk, Tides of Annihilation, Raji: Kaliyuga, Erosion.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Нейрослоп: Flux 2, Nano Banana Pro, WorldGen, Альтман с Айвом все еще делают свой гаджет, а еще Альтман предупредил сотрудников о тяжелых временах, Suno договорился с Warner Music.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Mihoyo показали свой Control-GTA под названием VarsaPura.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">В Европе собираются переработать закон про Окошки Печенек.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Цукерберг знает, что соцсети зло – про проект Меркурий 2020.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур советует Neon Inferno, который он прошел на стриме с Димкой.</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.youtube.com/watch?v=zzTf8lK99Ls&amp;t=5182s"><span style="font-weight: 400;">https://www.youtube.com/watch?v=zzTf8lK99Ls</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим не советует Project Motor Racing.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимуру понравился фильм Civil War Гарленда.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про ремастер классической игры Final Fantasy Tactics – Ivalice Chronicles.</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Расследование Verge на тему ИИ-пузыря путем поиска финансовых потоков компании CoreWeave</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai"><span style="font-weight: 400;">https://www.theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Очередной обзор на тему того, почему современные фильмы выглядят плохо в основном</span><span style="font-weight: 400;"><br />
+</span><a href="https://youtu.be/tvwPKBXEOKE"><span style="font-weight: 400;">https://youtu.be/tvwPKBXEOKE</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Насколько реалистично стреляет оружие в Arc Raiders</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.youtube.com/watch?v=ycv0n_w4QQU"><span style="font-weight: 400;">https://www.youtube.com/watch?v=ycv0n_w4QQU</span></a><span style="font-weight: 400;"> </span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: Александр Еремкин, Алексей Паздников, Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин друг Цареубийцы Джейми (корга), Игорь Саитов, Ильин Егор (на бусти и на патреоне), Йожег-тян, Капец я люблю Дмитрия Зомбака, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в лесу aka iMATROS, Сахалинец, Средиземноморская Скуфбрия, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого ожидает гиганта в постели Зомбака, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, dexter, Dirondin, Dmitrij Melkov, drontosaur, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia (как Савуся), Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, sofar, soshnik, T Yu Jin, Vislavdis, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa и пять Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+
+
+<p></p>
+<p>Запись <a href="https://zavtracast.ru/364.html">Завтракаст 364 – Окошко Печенек</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast364-cookies.mp3" length="157584527" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new364.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>364</itunes:episode>
+		<podcast:episode>364</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:42:21</itunes:duration>
+	</item>
+		<item>
+		<title>Завтракаст 363 – Сила пара</title>
+		<link>https://zavtracast.ru/363.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 08:10:07 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[dispatch]]></category>
+		<category><![CDATA[elder scrolls 6]]></category>
+		<category><![CDATA[frankenstein]]></category>
+		<category><![CDATA[gta 6]]></category>
+		<category><![CDATA[gta vi]]></category>
+		<category><![CDATA[half-life 3]]></category>
+		<category><![CDATA[pluribus]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[steam controller]]></category>
+		<category><![CDATA[steam frame]]></category>
+		<category><![CDATA[steam machine]]></category>
+		<category><![CDATA[super mario galaxy]]></category>
+		<category><![CDATA[syberia remastered]]></category>
+		<category><![CDATA[tormented souls 2]]></category>
+		<category><![CDATA[v for vendetta]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 363]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 363]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст твич]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[мобильные игры сони]]></category>
+		<category><![CDATA[одна из многих]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[ремастер сибири]]></category>
+		<category><![CDATA[ремастер фаллаута]]></category>
+		<category><![CDATA[стим машина]]></category>
+		<category><![CDATA[стиммашины]]></category>
+		<category><![CDATA[франкештейн дель торо]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4233</guid>
+
+					<description><![CDATA[<p>Уже десять лет мы в подкасте рассказываем про разные технологии, интернет-культуру и медиа, фильмы, сериалы, обсуждаем автомобили, видеоигры и всякие другие гиковские штуки. На сей раз в эфире Дима и Максим, рассказывающие много всего интересного &#8211; и про паровые машины от Valve и про нейросети и про перенос GTA VI и про фильм “Франкенштейн” и про многое многое другое! 🙏 Как нам помочь Премиум-подписка на нас на Boosty – https://boosty.to/zavtracast  Премиум-подписка на Patreon – https://patreon.com/zavtracast   Премиум-подписка в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  🔗 Каналы ведущих Радио Тимур – https://t.me/radiotimur  Фотодушнила – https://t.me/dushovato  Сказки Дядюшки Зомбака – https://t.me/zombaktales 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости подкаста: куда делся наш Тимур Слухи недели: SSD и оперативка подорожает, Valve якобы покажет что-то ещё (возможно Half-Life 3), нового Elder Scrolls 6 можно скоро не ждать, будет ремастер Fallout 3, у Ubisoft, возможно, всё очень плохо, а Apple не будет делать iPhone Air 2 Нейрослоп: новая ChatGPT с групповыми чатами, Google показал Sima 2, как главу Windows and Devices в твиттере раскатали, Disney за ИИ-генерацию, а художники против, Antropic пожаловалась на китайские взломы на основе ИИ  GTA VI перенесли (а также [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/363.html">Завтракаст 363 – Сила пара</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Уже десять лет мы в подкасте рассказываем про разные технологии, интернет-культуру и медиа, фильмы, сериалы, обсуждаем автомобили, видеоигры и всякие другие гиковские штуки. На сей раз в эфире Дима и Максим, рассказывающие много всего интересного &#8211; и про паровые машины от Valve и про нейросети и про перенос GTA VI и про фильм “Франкенштейн” и про многое многое другое!</span></p>
+<p><span id="more-4233"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как нам помочь</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Премиум-подписка в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Каналы ведущих</span></p>
+<p><span style="font-weight: 400;">Радио Тимур – </span><a href="https://t.me/radiotimur"><span style="font-weight: 400;">https://t.me/radiotimur</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Фотодушнила – </span><a href="https://t.me/dushovato"><span style="font-weight: 400;">https://t.me/dushovato</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Сказки Дядюшки Зомбака – </span><a href="https://t.me/zombaktales"><span style="font-weight: 400;">https://t.me/zombaktales</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span><span style="font-weight: 400;"></p>
+<p></span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости подкаста: куда делся наш Тимур</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи недели: SSD и оперативка подорожает, Valve якобы покажет что-то ещё (возможно Half-Life 3), нового Elder Scrolls 6 можно скоро не ждать, будет ремастер Fallout 3, у Ubisoft, возможно, всё очень плохо, а Apple не будет делать iPhone Air 2</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Нейрослоп: новая ChatGPT с групповыми чатами, Google показал Sima 2, как главу Windows and Devices в твиттере раскатали, Disney за ИИ-генерацию, а художники против, Antropic пожаловалась на китайские взломы на основе ИИ </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">GTA VI перенесли (а также Marvel 1943: Rise of Hydra)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Что Sony показала на азиатском State of Play, а также финансовые результаты и мобильные игры по франшизам Sony &#8211; Ratchet &amp; Clank: Ranger Rumble и Horizon Steel Frontiers </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ремейки в Голливуде: новый сериал V for Vendetta, новый Рэмбо, новые Гремлины, мультик про Super Mario Galaxy</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Valve показала новые гаджеты &#8211; контроллер Steam Controller, VR-шлем Steam Frame и игровой ПК Steam Machine</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про игру Tormented Souls 2 и финал Dispatch</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим и Дима про сериал &#8220;Из многих&#8221; (Pluribus) Винса Гиллигана</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим поиграл в ремастер Syberia: Remastered</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про фильм &#8220;Франкенштейн&#8221; Гильермо Дель Торо</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Как выглядел бы Oblivion на PSP, если бы игра вышла</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.youtube.com/watch?v=bb2-u4t9JCw"><span style="font-weight: 400;">https://www.youtube.com/watch?v=bb2-u4t9JCw</span></a><span style="font-weight: 400;"> </span></li>
+</ol>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: Александр Еремкин, Алексей Паздников, Антон Кузнецов, Антон Ленский, Антон Zephon, Артем Логинов, Данатос, Денис Артюшин, Денис Бондаренко, Дмитрий, Дмитрий Коробенков, Дотер в завязке, Дристун Замарашка, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин, Зомбарь it punk из ProIT, Игорь Саитов, Ильин Егор (на бусти и на патреоне), Йожег-тян, Лёд под ногами майора, Лубневский Дима, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, АННАэробная нагрузка (сами знаете чья подруга), Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в лесу aka iMATROS, Сахалинец, Средиземноморская Скуфбрия, Станислав Бартунский, сяомИ, сяомИ &#8211; ударение на И, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Эскорт Задорого околдован SEX-симв. подкаста Димой, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Aleksandr Koshelev, Alexey Karpov, artdzen, Artur Galiullin, dexter, Dirondin, Dmitrij Melkov, drontosaur, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, Grigoriy Yaffa, hadarelv, honolulu, Ivan Danilenko, KEBM, Khelleos, Konstantin Savusia, Maksim Lebedev, Michael Kúzhel, Mihai Procopi, Mika Stetsovski, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Radamsa, Sam Furman, Sergei Vaskov, sofar, soshnik, T Yu Jin, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa, и пять Завтрашейхов, которые посчитали нужным остаться анонимными.  </span></p>
+<p>Запись <a href="https://zavtracast.ru/363.html">Завтракаст 363 – Сила пара</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast363-steampowered.mp3" length="147507616" type="audio/mpeg" />
+
+				<itunes:author>Завтракаст (Zavtracast)</itunes:author>
+		<itunes:image href="https://zavtracast.ru/p/zavtracast_new363.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>363</itunes:episode>
+		<podcast:episode>363</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>2:32:00</itunes:duration>
+	</item>
+	</channel>
+</rss>
