@@ -2,13 +2,13 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # каждые 8 часов UTC
+    - cron: "0 */8 * * *"  # каждые 8 часов (UTC)
 
 permissions:
-  contents: write  # разрешение для пуша файлов
+  contents: write  # чтобы workflow мог пушить изменения
 
 jobs:
-  fetch-feed:
+  update-feed:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,35 +19,10 @@ jobs:
         run: |
           curl -L --fail --silent https://zavtracast.ru/podcast/feed?redirect=no -o feed.xml
 
-      - name: Ensure index.html exists
-        run: |
-          if [ ! -f index.html ]; then
-            cat > index.html << 'EOF'
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Podcast RSS Mirror</title>
-  <style>
-    body { font-family: Arial; max-width: 600px; margin: 50px auto; text-align: center; line-height: 1.6; }
-    a { color: #0366d6; text-decoration: none; font-weight: bold; }
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
-  <h1>Podcast RSS Mirror</h1>
-  <p>This is a mirror of the podcast RSS feed. Use the link below in your podcast client:</p>
-  <p><a href="feed.xml" target="_blank">feed.xml</a></p>
-  <p>RSS feed updates every 8 hours.</p>
-</body>
-</html>
-EOF
-          fi
-
-      - name: Commit feed and index
+      - name: Commit feed
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add feed.xml index.html
-          git commit -m "Update feed and keep index" || echo "No changes"
+          git add feed.xml
+          git commit -m "Update feed" || echo "No changes"
           git push
