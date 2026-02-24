@@ -2,7 +2,8 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 */8 * * *"  # каждые 8 часов (UTC)
+    - cron: "0 */8 * * *"  # каждые 8 часов (UTC)\
+  workflow_dispatch:
 
 permissions:
   contents: write  # чтобы workflow мог пушить изменения
