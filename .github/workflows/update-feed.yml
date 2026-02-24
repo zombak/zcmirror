@@ -2,10 +2,10 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */8 * * *"  # каждые 8 часов UTC
 
 permissions:
-  contents: write
+  contents: write  # разрешение для пуша файлов
 
 jobs:
   fetch-feed:
@@ -36,7 +36,7 @@ jobs:
 </head>
 <body>
   <h1>Podcast RSS Mirror</h1>
-  <p>Feed URL:</p>
+  <p>This is a mirror of the podcast RSS feed. Use the link below in your podcast client:</p>
   <p><a href="feed.xml" target="_blank">feed.xml</a></p>
   <p>RSS feed updates every 8 hours.</p>
 </body>
