@@ -1,0 +1,26 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # обновление каждые 30 минут
+  workflow_dispatch:
+
+jobs:
+  fetch-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS
+        run: |
+          curl -L --fail --silent https://zavtracast.ru/podcast/feed?redirect=no -o feed.xml
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add feed.xml
+          git commit -m "Update feed" || echo "No changes"
+          git push
