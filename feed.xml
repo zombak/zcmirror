@@ -21,7 +21,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0</generator>
+	<generator>https://wordpress.org/?v=7.0.1</generator>
 
 <image>
 	<url>https://zavtracast.ru/wp-content/uploads/2026/02/cropped-favicon-32x32.png</url>
@@ -59,7 +59,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<rawvoice:rating>TV-G</rawvoice:rating>
 	<rawvoice:location>Russia</rawvoice:location>
 	<podcast:location rel="subject">Russia</podcast:location>
-	<rawvoice:frequency>Weekly</rawvoice:frequency>
 	<rawvoice:donate href="https://zavtracast.ru/donate">Занести завтракасту</rawvoice:donate>
 	<podcast:funding url="https://zavtracast.ru/donate">Занести завтракасту</podcast:funding>
 	<podcast:podping usesPodping="true" />
