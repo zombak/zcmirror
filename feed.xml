@@ -21,7 +21,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.3</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 
 <image>
 	<url>https://zavtracast.ru/wp-content/uploads/2026/02/cropped-favicon-32x32.png</url>
@@ -9671,7 +9671,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<podcast:episode>303</podcast:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:49:16</itunes:duration>
-		<podcast:transcript url="https://zavtracast.ru/p/zavtracast303_transcription.txt" language="ru-ru" type="text/plain" rel="captions" />
+		<podcast:transcript url="https://zavtracast.ru/p/zavtracast303_transcription.txt" language="ru-RU" type="text/plain" />
 	</item>
 		<item>
 		<title>Завтракаст 302 – Ихний Депрессо</title>
