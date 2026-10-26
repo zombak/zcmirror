@@ -12,7 +12,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 
 <channel>
 	<title>Завтракаст (Zavtracast)</title>
-	<atom:link href="https://zavtracast.ru/podcast/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zavtracast.ru/podcast/feed?redirect=no" rel="self" type="application/rss+xml" />
 	<link>https://zavtracast.ru/podcast</link>
 	<description>Завтракаст – это самый популярный подкаст про технологии, игры и медиа в России. Веселые ведущие, свежие новости, советы и обсуждения под хорошую музыку и крутыми гостями</description>
 	<lastBuildDate>Thu, 15 Oct 2026 15:21:35 +0000</lastBuildDate>
@@ -65,7 +65,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:funding url="https://zavtracast.ru/donate">Занести завтракасту</podcast:funding>
 	<podcast:podping usesPodping="true" />
 	<podcast:guid>c866c6d3-1542-5c40-a897-c5f3f9911bb5</podcast:guid>
-	<rawvoice:subscribe feed="https://zavtracast.ru/podcast/feed" html="https://zavtracast.ru/about/how-to-subscribe-to-zavtracast" itunes="https://podcasts.apple.com/ru/podcast/zavtracast-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82/id1068329384?l=en" tunein="https://tunein.com/radio/Zavtracast-p884103/" spotify="https://open.spotify.com/show/4AVVfgF6q6v0FfuYV7MYeQ?si=7KCKfLDmSXGDNVyV7o7hXQ"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="https://zavtracast.ru/podcast/feed?redirect=no" html="https://zavtracast.ru/about/how-to-subscribe-to-zavtracast" itunes="https://podcasts.apple.com/ru/podcast/zavtracast-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82/id1068329384?l=en" tunein="https://tunein.com/radio/Zavtracast-p884103/" spotify="https://open.spotify.com/show/4AVVfgF6q6v0FfuYV7MYeQ?si=7KCKfLDmSXGDNVyV7o7hXQ"></rawvoice:subscribe>
 	<item>
 		<title>Завтракаст 392 – Я всё понял!</title>
 		<link>https://zavtracast.ru/392.html</link>
