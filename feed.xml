@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://zavtracast.ru/podcast/feed" rel="self" type="application/rss+xml" />
 	<link>https://zavtracast.ru/podcast</link>
 	<description>Завтракаст – это самый популярный подкаст про технологии, игры и медиа в России. Веселые ведущие, свежие новости, советы и обсуждения под хорошую музыку и крутыми гостями</description>
-	<lastBuildDate>Wed, 28 Oct 2026 14:01:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 14:01:26 +0000</lastBuildDate>
 	<language>ru</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
