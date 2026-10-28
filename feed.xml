@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://zavtracast.ru/podcast/feed" rel="self" type="application/rss+xml" />
 	<link>https://zavtracast.ru/podcast</link>
 	<description>Завтракаст – это самый популярный подкаст про технологии, игры и медиа в России. Веселые ведущие, свежие новости, советы и обсуждения под хорошую музыку и крутыми гостями</description>
-	<lastBuildDate>Thu, 15 Oct 2026 15:21:35 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 14:01:25 +0000</lastBuildDate>
 	<language>ru</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,6 +67,112 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>c866c6d3-1542-5c40-a897-c5f3f9911bb5</podcast:guid>
 	<rawvoice:subscribe feed="https://zavtracast.ru/podcast/feed" html="https://zavtracast.ru/about/how-to-subscribe-to-zavtracast" itunes="https://podcasts.apple.com/ru/podcast/zavtracast-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82/id1068329384?l=en" tunein="https://tunein.com/radio/Zavtracast-p884103/" spotify="https://open.spotify.com/show/4AVVfgF6q6v0FfuYV7MYeQ?si=7KCKfLDmSXGDNVyV7o7hXQ"></rawvoice:subscribe>
 	<item>
+		<title>Завтракаст 393 – Не всем не нравится</title>
+		<link>https://zavtracast.ru/393.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 14:01:25 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[HLX]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 393]]></category>
+		<category><![CDATA[взлом PHP]]></category>
+		<category><![CDATA[взлом SSL]]></category>
+		<category><![CDATA[взлом алисы]]></category>
+		<category><![CDATA[взлом телевизора]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 393]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст твич]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[звездные войны гослинг]]></category>
+		<category><![CDATA[модерн варваер 4]]></category>
+		<category><![CDATA[пептиды]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[рекомп бладборн]]></category>
+		<category><![CDATA[рекомп драйвклаб]]></category>
+		<category><![CDATA[сайлент хилл римейк]]></category>
+		<category><![CDATA[халф лайф 3]]></category>
+		<category><![CDATA[эльта]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4493</guid>
+
+					<description><![CDATA[<p>С вами опять на связи лучший подкаст про игры, технологии, ИИ, кино, сериалы, индустриальные слухи, машины, всякое гиковское и многое другое – Завтракаст. Его бессменные ведущие Дима, Тимур и Максим всячески много часов подряд вас развлекают КАК МОГУТ. Спасибо за ваше внимание к этому вопросу! 🙏 Как помочь проекту Премиум-подписка на Boosty – https://boosty.to/zavtracast  А еще на Patreon – https://patreon.com/zavtracast   Или в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  🔗 Каналы ведущих Радио Тимур – https://t.me/radiotimur  Фотодушнила – https://t.me/dushovato  Сказки Дядюшки Зомбака – https://t.me/zombaktales 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости Завтракаста: вышел новый выпуск нашего подкаста про паранормальное “Сказки Дядюшки Зомбака” – номер 20. Слухи-слухские: у Netflix проблемы (а особенно у нового фильма по “Хроники Нарнии”), Silent Hill Remake выйдет в 2027, что там у фильмов по Star Wars (от Тайки Вайтит и с Райаном Гослингом), бюджет Gears of War: E-Day превышает $500 млн, сотрудник Valve проболтался про HLX (Half-Life 3), разработку Beyond Good &#38; Evil 2 опять перезапустили – теперь это кооп-приключение. EA закрыла студию Bioware, а новый Mass Effect Universe мы не увидим. Могут закрыть студию Arkane. Microsoft предлагает 60к человек уволиться самим. Обсуждаем выход [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/393.html">Завтракаст 393 – Не всем не нравится</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">С вами опять на связи лучший подкаст про игры, технологии, ИИ, кино, сериалы, индустриальные слухи, машины, всякое гиковское и многое другое – Завтракаст. Его бессменные ведущие Дима, Тимур и Максим всячески много часов подряд вас развлекают КАК МОГУТ.</span></p>
+<p><span style="font-weight: 400;">Спасибо за ваше внимание к этому вопросу!</span><span style="font-weight: 400;"></p>
+<p></span><span id="more-4493"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как помочь проекту</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">А еще на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Или в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Каналы ведущих</span></p>
+<p><span style="font-weight: 400;">Радио Тимур – </span><a href="https://t.me/radiotimur"><span style="font-weight: 400;">https://t.me/radiotimur</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Фотодушнила – </span><a href="https://t.me/dushovato"><span style="font-weight: 400;">https://t.me/dushovato</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Сказки Дядюшки Зомбака – </span><a href="https://t.me/zombaktales"><span style="font-weight: 400;">https://t.me/zombaktales</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: вышел новый выпуск нашего подкаста про паранормальное “Сказки Дядюшки Зомбака” – номер 20.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: у Netflix проблемы (а особенно у нового фильма по “Хроники Нарнии”), Silent Hill Remake выйдет в 2027, что там у фильмов по Star Wars (от Тайки Вайтит и с Райаном Гослингом), бюджет Gears of War: E-Day превышает $500 млн, сотрудник Valve проболтался про HLX (Half-Life 3), разработку Beyond Good &amp; Evil 2 опять перезапустили – теперь это кооп-приключение.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">EA закрыла студию Bioware, а новый Mass Effect Universe мы не увидим. Могут закрыть студию Arkane. Microsoft предлагает 60к человек уволиться самим.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Обсуждаем выход на биржу Anthropic.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Apple показала новые iPad Mini, а дебютная неделя у iPhone Duo НЕ СЛОЖИЛАСЬ.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп недели: люди вайбкодят себе оболочку для домашних ТВ, роутеров, фоторамок, колонок Алиса и всего остального, а еще находят с помощью ИИ шпионов на своих ТВ от Samsung, “Черный октябрь” в области кибербезопасности (PHP и SSL от индусов).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про Castlevania: Belmont’s Curse.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур и Дима про фестиваль демок Steam: Derelikt, Comrade Secrets Escape, ReShine, Elta Defy All Gods, Fart Together, Haunted Paws, Dreadmoore, False Echo, There is No Ghost At The Grand и другие.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур посмотрел “Дьявол Носит Прада 2”.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Макс поиграл в галактического расиста Star Wars Galactic Racer.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про сериал “Братья” (Brothers).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про экшен-хоррор Clive Barker&#8217;s Hellraiser: Revival.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур и Дима поиграли в рекомпы Driveclub, Lost Oddyssey и Bloodborne на ПК.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима прошёл сюжетку Call of Duty: Modern Warfare 4.</span></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Лекции Питера Тиля про Антихриста</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis"><span style="font-weight: 400;">https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Фантастический рассказ о том, какой станет жизнь, если учёные всё же изобретут ASI</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"><span style="font-weight: 400;">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Что происходит на пептид-коне</span><span style="font-weight: 400;"><br />
+</span><a href="https://mamathemagazine.com/what-happened-at-the-peptide-party/"><span style="font-weight: 400;">https://mamathemagazine.com/what-happened-at-the-peptide-party/</span></a></li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Александр Суворов, Антон Кузнецов, Антон Ленский, Антон Пряхин, Антон Zephon, Артем Логинов, Декстер из Ривии, Денис Артюшин, Денис Бондаренко, Джимбае Александрович Пипельдов, Дмитрий, Дристун Замарашка, ДролгАр, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин, Йожег-тян, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Мika Stetsóvski, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в чехол от колбасы aka iMATROS, Сахалинец, Скуфбрия Вита Эна, Станислав Бартунский, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Я капец как люблю Димку где на 6 из 10 Росомаха, Я капец как люблю когда Дима говорит «сяо-мИ», Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Alexey Karpov, artdzen, Artur Galiullin, astract, Darl0ck, dexter, Dirondin, Dmitrij Melkov, drontosaur, DS_Alchemist, Egor Ilyin, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, good_morning_morgan, Grigoriy Yaffa, hadarelv, Ivan Danilenko, KEBM, Khelleos, Maksim Lebedev, McDoggerton, Michael Kúzhel, Mihai Procopi (на бусти и на патреоне), Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, Namir, NexonSU, Nikita Strelnikov (на бусти и на патреоне), Nikolay Matrosov, Pavel Starikov, Sam Furman, Sergei Vaskov, sofar, soshnik, T Yu Jin, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa, а также шесть Завтрашейхов, которые посчитали нужным остаться анонимными. </span></p>
+<p>Запись <a href="https://zavtracast.ru/393.html">Завтракаст 393 – Не всем не нравится</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast393-hinge.mp3" length="234942546" type="audio/mpeg" />
+
+				<itunes:image href="https://zavtracast.ru/p/zavtracast_new393.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>393</itunes:episode>
+		<podcast:episode>393</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>4:03:51</itunes:duration>
+		<rawvoice:poster url="https://zavtracast.ru/p/zavtracast_yt393.jpg" />
+	</item>
+		<item>
 		<title>Завтракаст 392 – Я всё понял!</title>
 		<link>https://zavtracast.ru/392.html</link>
 		
@@ -10843,87 +10949,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<podcast:episode>298</podcast:episode>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>2:28:50</itunes:duration>
-	</item>
-		<item>
-		<title>Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS</title>
-		<link>https://zavtracast.ru/magnit-podcast12.html</link>
-		
-		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
-		<pubDate>Wed, 29 Nov 2023 13:11:06 +0000</pubDate>
-				<category><![CDATA[Завтракаст]]></category>
-		<category><![CDATA[CICD]]></category>
-		<category><![CDATA[data governance]]></category>
-		<category><![CDATA[devops]]></category>
-		<category><![CDATA[golang]]></category>
-		<category><![CDATA[it]]></category>
-		<category><![CDATA[magnit]]></category>
-		<category><![CDATA[paas]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[python]]></category>
-		<category><![CDATA[zavtracast]]></category>
-		<category><![CDATA[айти]]></category>
-		<category><![CDATA[антон огородников]]></category>
-		<category><![CDATA[бэк на котлине]]></category>
-		<category><![CDATA[бэкенд]]></category>
-		<category><![CDATA[бэкэнд]]></category>
-		<category><![CDATA[вкатиться]]></category>
-		<category><![CDATA[дата лейк]]></category>
-		<category><![CDATA[девопс]]></category>
-		<category><![CDATA[девтулинг]]></category>
-		<category><![CDATA[завтракаст]]></category>
-		<category><![CDATA[завтракаст youtube]]></category>
-		<category><![CDATA[завтракаст бусти]]></category>
-		<category><![CDATA[завтракаст ведущие]]></category>
-		<category><![CDATA[завтракаст дима]]></category>
-		<category><![CDATA[завтракаст максим]]></category>
-		<category><![CDATA[завтракаст тимур]]></category>
-		<category><![CDATA[завтракаст ютуб]]></category>
-		<category><![CDATA[инструменты]]></category>
-		<category><![CDATA[интересный]]></category>
-		<category><![CDATA[какой язык программирования учить]]></category>
-		<category><![CDATA[куда пойти работать]]></category>
-		<category><![CDATA[лучшая компания]]></category>
-		<category><![CDATA[лучшие]]></category>
-		<category><![CDATA[лучший]]></category>
-		<category><![CDATA[магнит]]></category>
-		<category><![CDATA[паас]]></category>
-		<category><![CDATA[платформы]]></category>
-		<category><![CDATA[подкаст]]></category>
-		<category><![CDATA[полезное]]></category>
-		<category><![CDATA[полезный]]></category>
-		<category><![CDATA[процессы]]></category>
-		<category><![CDATA[работодатель]]></category>
-		<category><![CDATA[ритейл]]></category>
-		<category><![CDATA[ритейлер]]></category>
-		<category><![CDATA[стрим]]></category>
-		<category><![CDATA[что нужно знать джуну]]></category>
-		<guid isPermaLink="false">https://zavtracast.ru/?p=3769</guid>
-
-					<description><![CDATA[<p>Рады представить вам уже двенадцатый выпуск подкаста “Магнитное Поле”! В этом выпуске к нам присоединился Антон Огородников, руководитель разработки онлайн-платформы Магнита. Собственно, мы как раз и поговорили про эту своеобразную Platform as a Service, созданную для облегчения жизни разработчиков внутри Магнита – это такой сборник синергично работающих автоматизированных блюпринтов для быстрого деплоя в облачную инфраструктуру. Кроме того, мы обсудили актуальный спор GoLang vs Python, какие стеки используются в Магните, какие придется включить туда в ближайшее время, до какой степени можно кодогенерировать уже сейчас, как строится у них среда разработки, как работает девтулинг и куда стоит двигаться новичку-бэкендеру. Напоминаем, что этот подкаст мы делаем совместно с IT-командой ритейлера Магнит и в нем мы стараемся рассказать про наиболее интересные и разные аспекты работы команд крупной технологической компании, где работают тысячи человек. В предыдущих выпусках мы поговорили про devops с человеческим лицом, дизайн-системы, data governance, IT HR, зачем нужен agile, geo BI, облачные архитектуры, InnerSource, создание внутренних продуктов и многое другое. Этот выпуск вы можете послушать прямо в ленте подкаста Завтракаст на любом подкаст-сервисе: podcast.ru/1068329384 А также посмотреть на YouTube-канале Завтракаста: https://www.youtube.com/playlist?list=PLRd7kI_0sLY6Js-53Tai_YnCti7hsXAMj  Вы можете узнать много интересных кейсов и историй из блогов MagnIT На VC: https://vc.ru/magnit-tech На Хабре: https://habr.com/ru/company/magnit Посмотреть вакансии и отправить [&#8230;]</p>
-<p>Запись <a href="https://zavtracast.ru/magnit-podcast12.html">Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Рады представить вам уже двенадцатый выпуск подкаста “Магнитное Поле”!</span></p>
-<p><span style="font-weight: 400;">В этом выпуске к нам присоединился Антон Огородников, руководитель разработки онлайн-платформы Магнита. Собственно, мы как раз и поговорили про эту своеобразную Platform as a Service, созданную для облегчения жизни разработчиков внутри Магнита – это такой сборник синергично работающих автоматизированных блюпринтов для быстрого деплоя в облачную инфраструктуру. Кроме того, мы обсудили актуальный спор GoLang vs Python, какие стеки используются в Магните, какие придется включить туда в ближайшее время, до какой степени можно кодогенерировать уже сейчас, как строится у них среда разработки, как работает девтулинг и куда стоит двигаться новичку-бэкендеру.</span></p>
-<p><span id="more-3769"></span></p>
-<p><span style="font-weight: 400;">Напоминаем, что этот подкаст мы делаем совместно с IT-командой ритейлера Магнит и в нем мы стараемся рассказать про наиболее интересные и разные аспекты работы команд крупной технологической компании, где работают тысячи человек. В предыдущих выпусках мы поговорили про devops с человеческим лицом, дизайн-системы, data governance, IT HR, зачем нужен agile, geo BI, облачные архитектуры, InnerSource, создание внутренних продуктов и многое другое.</span></p>
-<p><span style="font-weight: 400;">Этот выпуск вы можете послушать прямо в ленте подкаста Завтракаст на любом подкаст-сервисе: </span><a href="https://podcast.ru/1068329384"><span style="font-weight: 400;">podcast.ru/1068329384</span><b><br />
-</b></a><span style="font-weight: 400;">А также посмотреть на YouTube-канале Завтракаста: </span><a href="https://www.youtube.com/playlist?list=PLRd7kI_0sLY6Js-53Tai_YnCti7hsXAMj"><span style="font-weight: 400;">https://www.youtube.com/playlist?list=PLRd7kI_0sLY6Js-53Tai_YnCti7hsXAMj</span></a><span style="font-weight: 400;"> </span></p>
-<p><span style="font-weight: 400;">Вы можете узнать много интересных кейсов и историй из блогов MagnIT</span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">На VC: </span><a href="https://vc.ru/magnit-tech"><span style="font-weight: 400;">https://vc.ru/magnit-tech</span></a></p>
-<p><span style="font-weight: 400;">На Хабре: </span><a href="https://habr.com/ru/company/magnit"><span style="font-weight: 400;">https://habr.com/ru/company/magnit</span></a></p>
-<p><span style="font-weight: 400;">Посмотреть вакансии и отправить резюме</span></p>
-<p><a href="https://magnit.tech"><span style="font-weight: 400;">https://magnit.tech</span></a><span style="font-weight: 400;"> </span></p>
-<p>Запись <a href="https://zavtracast.ru/magnit-podcast12.html">Магнитное поле №12 – Как оптимизировать опыт разработки с помощью собственной PaaS</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
-]]></content:encoded>
-					
-		
-				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/magnit12.mp3" length="48414407" type="audio/mpeg" />
-
-				<itunes:image href="https://zavtracast.ru/p/magnitcover.jpg" />
-		<itunes:season>9</itunes:season>
-		<podcast:season>9</podcast:season>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>50:11</itunes:duration>
 	</item>
 	</channel>
 </rss>
