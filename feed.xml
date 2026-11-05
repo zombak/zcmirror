@@ -15,13 +15,13 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://zavtracast.ru/podcast/feed" rel="self" type="application/rss+xml" />
 	<link>https://zavtracast.ru/podcast</link>
 	<description>Завтракаст – это самый популярный подкаст про технологии, игры и медиа в России. Веселые ведущие, свежие новости, советы и обсуждения под хорошую музыку и крутыми гостями</description>
-	<lastBuildDate>Wed, 28 Oct 2026 14:01:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Nov 2026 17:36:38 +0000</lastBuildDate>
 	<language>ru</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.3</generator>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
 
 <image>
 	<url>https://zavtracast.ru/wp-content/uploads/2026/02/cropped-favicon-32x32.png</url>
@@ -67,6 +67,114 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>c866c6d3-1542-5c40-a897-c5f3f9911bb5</podcast:guid>
 	<rawvoice:subscribe feed="https://zavtracast.ru/podcast/feed" html="https://zavtracast.ru/about/how-to-subscribe-to-zavtracast" itunes="https://podcasts.apple.com/ru/podcast/zavtracast-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82/id1068329384?l=en" tunein="https://tunein.com/radio/Zavtracast-p884103/" spotify="https://open.spotify.com/show/4AVVfgF6q6v0FfuYV7MYeQ?si=7KCKfLDmSXGDNVyV7o7hXQ"></rawvoice:subscribe>
 	<item>
+		<title>Завтракаст 394 – Datakrash</title>
+		<link>https://zavtracast.ru/394.html</link>
+		
+		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 17:36:37 +0000</pubDate>
+				<category><![CDATA[Завтракаст]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[zavtracast]]></category>
+		<category><![CDATA[zavtracast 394]]></category>
+		<category><![CDATA[башня бога]]></category>
+		<category><![CDATA[видеоверсия]]></category>
+		<category><![CDATA[завтракаст]]></category>
+		<category><![CDATA[завтракаст 394]]></category>
+		<category><![CDATA[завтракаст бусти]]></category>
+		<category><![CDATA[завтракаст ведущие]]></category>
+		<category><![CDATA[завтракаст дима]]></category>
+		<category><![CDATA[завтракаст кабинет лора]]></category>
+		<category><![CDATA[завтракаст максим]]></category>
+		<category><![CDATA[завтракаст мерч]]></category>
+		<category><![CDATA[завтракаст патреон]]></category>
+		<category><![CDATA[завтракаст рекомендует]]></category>
+		<category><![CDATA[завтракаст твич]]></category>
+		<category><![CDATA[завтракаст тимур]]></category>
+		<category><![CDATA[завтракаст ютуб]]></category>
+		<category><![CDATA[как защитить код от нейросетей]]></category>
+		<category><![CDATA[м5 макс]]></category>
+		<category><![CDATA[мештастик]]></category>
+		<category><![CDATA[муж дуа липы]]></category>
+		<category><![CDATA[новый джеймс бонд]]></category>
+		<category><![CDATA[подкаст]]></category>
+		<category><![CDATA[почему закрыли биовэр]]></category>
+		<category><![CDATA[стим контролер]]></category>
+		<category><![CDATA[фантом блейд зеро]]></category>
+		<category><![CDATA[хелтек лора v4]]></category>
+		<category><![CDATA[хромаграф]]></category>
+		<guid isPermaLink="false">https://zavtracast.ru/?p=4497</guid>
+
+					<description><![CDATA[<p>Проведите время с пользой, пока слушаете Завтракаст – один из лучших подкастов про игры, медиа, технологии, ИИ, аниме, кино, сериалы и вот это все, который выходит уже почти 11 лет. Дима, Тимур и Максим опять обсуждают топовые новости со слухами, делятся советами и впечатлениями. В этом выпуске Phantom Blade Zero, “Башня Бога”, Heltec LoRa V4, Steam-контроллер, стоит ли брать Macbook Pro на M5 Max, будет ли муж Дуа Липы играть Джеймса Бонда и многое другое! 🙏 Как помочь проекту Премиум-подписка на Boosty – https://boosty.to/zavtracast  А еще на Patreon – https://patreon.com/zavtracast   Или в Apple Podcasts – https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180   Подпишитесь на YouTube-канал – https://youtube.com/zavtracast Или на Twitch-канал – https://twitch.tv/zavtracast  🔗 Каналы ведущих Радио Тимур – https://t.me/radiotimur  Фотодушнила – https://t.me/dushovato  Сказки Дядюшки Зомбака – https://t.me/zombaktales 📣 Наши соцсети TG: https://t.me/zavtracast Twitter: https://x.com/zavtracast Steam: https://store.steampowered.com/curator/45140423/ 📝 Шоуноты Новости Завтракаста: наш новый мерч будет вот-вот доступен для заказа на https://zavtracast.ru/goods  Слухи-слухские: муж Лупы Пупы (Каллум Тернер) станет следующим Джеймсом Бондом, Mass Effect  5 отменили ради Star Wars Battlefront III. Игровое направление Microsoft снова показало падение, а TES 6 будет называться Sentinel. Во Франции может появиться налог на интернет-трафик, а в Португалии взломали вотсапп министра обороны. Apple показала новый Macbook Pro на M5 Pro и M5 Max, [&#8230;]</p>
+<p>Запись <a href="https://zavtracast.ru/394.html">Завтракаст 394 – Datakrash</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Проведите время с пользой, пока слушаете Завтракаст – один из лучших подкастов про игры, медиа, технологии, ИИ, аниме, кино, сериалы и вот это все, который выходит уже почти 11 лет. Дима, Тимур и Максим опять обсуждают топовые новости со слухами, делятся советами и впечатлениями. В этом выпуске Phantom Blade Zero, “Башня Бога”, Heltec LoRa V4, Steam-контроллер, стоит ли брать Macbook Pro на M5 Max, будет ли муж Дуа Липы играть Джеймса Бонда и многое другое!</span><span style="font-weight: 400;"></p>
+<p></span><span id="more-4497"></span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Как помочь проекту</span></p>
+<p><span style="font-weight: 400;">Премиум-подписка на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">А еще на Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Или в Apple Podcasts – </span><a href="https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180"><span style="font-weight: 400;">https://podcasts.apple.com/us/channel/zavtracast-plus/id6442482180</span></a><span style="font-weight: 400;">  </span></p>
+<p><span style="font-weight: 400;">Подпишитесь на YouTube-канал – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Или на Twitch-канал – </span><a href="https://twitch.tv/zavtracast"><span style="font-weight: 400;">https://twitch.tv/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Каналы ведущих</span></p>
+<p><span style="font-weight: 400;">Радио Тимур – </span><a href="https://t.me/radiotimur"><span style="font-weight: 400;">https://t.me/radiotimur</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Фотодушнила – </span><a href="https://t.me/dushovato"><span style="font-weight: 400;">https://t.me/dushovato</span></a><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Сказки Дядюшки Зомбака – </span><a href="https://t.me/zombaktales"><span style="font-weight: 400;">https://t.me/zombaktales</span></a> <span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Наши соцсети</span></p>
+<p><span style="font-weight: 400;">TG: </span><a href="https://t.me/zavtracast"><span style="font-weight: 400;">https://t.me/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Twitter: </span><a href="https://x.com/zavtracast"><span style="font-weight: 400;">https://x.com/zavtracast</span></a></p>
+<p><span style="font-weight: 400;">Steam: </span><a href="https://store.steampowered.com/curator/45140423/"><span style="font-weight: 400;">https://store.steampowered.com/curator/45140423/</span></a></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Шоуноты</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: наш новый мерч будет вот-вот доступен для заказа на </span><a href="https://zavtracast.ru/goods"><span style="font-weight: 400;">https://zavtracast.ru/goods</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи-слухские: муж Лупы Пупы (Каллум Тернер) станет следующим Джеймсом Бондом, Mass Effect  5 отменили ради Star Wars Battlefront III.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Игровое направление Microsoft снова показало падение, а TES 6 будет называться Sentinel.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Во Франции может появиться налог на интернет-трафик, а в Португалии взломали вотсапп министра обороны.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Apple показала новый Macbook Pro на M5 Pro и M5 Max, а еще у нее очень хорошо дела идут с денежками в 4 квартале 2026, но плохо – с производителями памяти.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Бизнес-модель Google на грани коллапса и причем здесь Reddit.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ИИ-слоп недели: </span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; Как защитить свой код от нейросетей? Попросить их создать яд или биологическое оружие.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; CS2, Half-Life 2 и даже меню PS4 перенесли в Roblox.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; ItchIO начали удалять ИИ-слоп с платформы.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; Мощные LLM способны точечно менять веса других моделей.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; На волне банов в Клоде китайские пользователи разобрали внутреннюю систему рейтингов Anthropic.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">&#8211; Американские дата-центры начали переделывать старые реактивные двигатели в генераторы.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима про Steam Controller.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про аниме “Башня Бога” (Tower of God).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим про китайский полнометражный мультфильм Маленькие демоны путешествуют на Запад (Nobody).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про новый сериал “Кэрри” (Carrie).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Максим про про второй сезон мультсериала Cyberpunk: Edgerunners и Дима про мультсериал &#8220;Золотая секира&#8221; (Golden Axe).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про первый опыт с Meshtastic на примере Heltec LoRa V4.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Максим про Phantom Blade Zero.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Тимур про новое приложение Райяна Джонсона Chromagraph.</span><span style="font-weight: 400;"><br />
+</span><a href="https://www.threads.com/@timurse/post/DfGE0EEDBxy"><span style="font-weight: 400;">https://www.threads.com/@timurse/post/DfGE0EEDBxy</span><span style="font-weight: 400;"><br />
+</span></a><a href="https://www.threads.com/@timurse/post/DfQcrAejNsG"><span style="font-weight: 400;">https://www.threads.com/@timurse/post/DfQcrAejNsG</span></a></li>
+</ol>
+<h3><span style="font-weight: 400;">Самые интересные материалы недели</span></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Как американцы нашли русский город на Аляске</span><span style="font-weight: 400;"><br />
+</span><a href="https://youtu.be/TMQ31DQjjWg?is=KMn2Gib7v4dC4wpH"><span style="font-weight: 400;">https://youtu.be/TMQ31DQjjWg</span></a></li>
+</ol>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Благодарности</span></p>
+<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon: $k@4k()\/, Александр Еремкин, Александр Суворов, Антон Кузнецов, Антон Ленский, Антон Пряхин, Антон Zephon, Артем Логинов, Вы офигели, чё так мало донатов?, Декстер из Ривии, Денис Артюшин, Денис Бондаренко, Джимбае Александрович Пипельдов, Дмитрий, Дристун Замарашка, ДролгАр, Евгений Богомолов, Евгений Нистлер, Екатерина Александровна, Женечка Калинин, Йожег-тян, Лёд под ногами майора, Миша ждет лета, Мишечная масса (друг Никиторса протеинового насоса), Мятная Рысь, Мika Stetsóvski, Никита Бескорсый, Никиторс (протеиновый насос) друг Мишечной массы, Олег Ончки, ОпаКенгуру, Павло Гайда, Петр Лаврентьев, Программист на все руки, рокетбунни, Рыбы пердящие в чехол от колбасы aka iMATROS, Сахалинец, Скуфбрия Вита Эна, Спасибо тебе, братан на бусти и на патреоне, Спасибо тебе, братан на бусти и на патреоне, Станислав Бартунский, Тимофей Брыксин, Фирсов Егор, Цареубийца Джейми (Корг), Я капец как люблю Димку, потому что сам Димка, Я капец как люблю Максима Зарецкого, Я капец как люблю Тимура Сейфельмлюкова, Янус, Alexey Karpov, artdzen, Artur Galiullin, astract, Darl0ck, dexter, Dirondin, Dmitrij Melkov, drontosaur, DS_Alchemist, Egor Ilyin, Evgeniy Petrunko, ferzisdis, fxfortrader.ru, good_morning_morgan, Grigoriy Yaffa, hadarelv, Ivan Danilenko, KEBM, Khelleos, Maksim Lebedev, McDoggerton, Michael Kúzhel, Mihai Procopi, Montroiger, mr Leroy, mrBurny, mrValery, ms mopsie, N1KRN, Namir, NexonSU, Nikita Strelnikov, Nikolay Matrosov, Pavel Starikov, Sam Furman, Sergei Vaskov, sofar, soshnik, T Yu Jin, vkhotea, Vladimir Korennoy, Wisebird, Wisors, Yuurrraaaa, а также семь Завтрашейхов, которые посчитали нужным остаться анонимными. </span></p>
+<p>Запись <a href="https://zavtracast.ru/394.html">Завтракаст 394 – Datakrash</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
+]]></content:encoded>
+					
+		
+				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast394-datakrash.mp3" length="242614400" type="audio/mpeg" />
+
+				<itunes:image href="https://zavtracast.ru/p/zavtracast_new394.jpg" />
+		<itunes:season>11</itunes:season>
+		<podcast:season>11</podcast:season>
+		<itunes:episode>394</itunes:episode>
+		<podcast:episode>394</podcast:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>4:11:14</itunes:duration>
+		<rawvoice:poster url="https://zavtracast.ru/p/zavtracast_yt394.jpg" />
+	</item>
+		<item>
 		<title>Завтракаст 393 – Не всем не нравится</title>
 		<link>https://zavtracast.ru/393.html</link>
 		
@@ -10852,103 +10960,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<podcast:season>9</podcast:season>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:01:15</itunes:duration>
-	</item>
-		<item>
-		<title>Завтракаст 298 – Запомни её!</title>
-		<link>https://zavtracast.ru/298.html</link>
-		
-		<dc:creator><![CDATA[Дмитрий Зомбак]]></dc:creator>
-		<pubDate>Mon, 04 Dec 2023 18:29:32 +0000</pubDate>
-				<category><![CDATA[Завтракаст]]></category>
-		<category><![CDATA[activision]]></category>
-		<category><![CDATA[appe]]></category>
-		<category><![CDATA[aquamen]]></category>
-		<category><![CDATA[atmos]]></category>
-		<category><![CDATA[batman arkham]]></category>
-		<category><![CDATA[bloodlines 2]]></category>
-		<category><![CDATA[call of duty]]></category>
-		<category><![CDATA[cybertruck]]></category>
-		<category><![CDATA[disney]]></category>
-		<category><![CDATA[Fort Solis]]></category>
-		<category><![CDATA[furiosa]]></category>
-		<category><![CDATA[gamer network]]></category>
-		<category><![CDATA[good omens]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[grand tour]]></category>
-		<category><![CDATA[gta6]]></category>
-		<category><![CDATA[homeworld 3]]></category>
-		<category><![CDATA[kill the justice league]]></category>
-		<category><![CDATA[krapopolis]]></category>
-		<category><![CDATA[openai]]></category>
-		<category><![CDATA[oppenheimer]]></category>
-		<category><![CDATA[philips]]></category>
-		<category><![CDATA[podcast]]></category>
-		<category><![CDATA[suicide squad]]></category>
-		<category><![CDATA[switch]]></category>
-		<category><![CDATA[talos principle 2]]></category>
-		<category><![CDATA[top gear]]></category>
-		<category><![CDATA[vampire the masquerade]]></category>
-		<category><![CDATA[Wish]]></category>
-		<category><![CDATA[xbox]]></category>
-		<category><![CDATA[zavtracast]]></category>
-		<category><![CDATA[zavtracast 298]]></category>
-		<category><![CDATA[видеоверсия]]></category>
-		<category><![CDATA[завтракаст]]></category>
-		<category><![CDATA[завтракаст 298]]></category>
-		<category><![CDATA[завтракаст ведущие]]></category>
-		<category><![CDATA[завтракаст дима]]></category>
-		<category><![CDATA[завтракаст максим]]></category>
-		<category><![CDATA[завтракаст патреон]]></category>
-		<category><![CDATA[завтракаст тимур]]></category>
-		<category><![CDATA[завтракаст ютуб]]></category>
-		<category><![CDATA[подкаст]]></category>
-		<guid isPermaLink="false">https://zavtracast.ru/?p=3776</guid>
-
-					<description><![CDATA[<p>Кругом снег и мороз, один из ведущих заболел, но Завтракаст и не думает останавливаться. В новом выпуске мы обсуждаем, как так получилось, что автошоу прекратили своё существование, хвалим игру Talos Principle 2 и саундбар от Philips, а также подробно обсуждаем геймплей Suicide Squad: Kille the Justice League, в альфа-версию которой мы поиграли. И это не считая нашего обычного обсуждения новостей и событий! Не болейте! Подписывайтесь и ставьте лайк, а также не забудьте нажать на колокольчик на нашем ютубе – https://youtube.com/zavtracast    Если вы хотите нас поддержать из России, то подписывайтесь на нас на Boosty – https://boosty.to/zavtracast Если вы находитесь за границей, то можно подписаться на нас еще и на сервисе Patreon – https://patreon.com/zavtracast  Подписывайтесь на каналы ведущих в Телеграме: &#8211; Радио Тимур – https://t.me/radiotimur &#8211; Фотодушнила – https://t.me/dushovato &#8211; Сказки Дядюшки Зомбака – https://t.me/zombaktales Шоуноты Новости Завтракаста: новый выпуск Магнитного Поля №12, “Кабинет лора” совсем скоро Слухи недели: скоро покажут GTA VI, Apple откажется от разработок 5G-модемов, о чём будет новая Call of Duty, как скоро выйдет Hellblade 2 и почему Ubisoft всё же решилась выпустить Skull and Bones Диме не понравился мультсериал Крапополис (Krapopolis) Драма в OpenAI закончилась, Сэм Альтман вернул своё кресло Дима поиграл в симулятор ходьбы Fort [&#8230;]</p>
-<p>Запись <a href="https://zavtracast.ru/298.html">Завтракаст 298 – Запомни её!</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Кругом снег и мороз, один из ведущих заболел, но Завтракаст и не думает останавливаться. В новом выпуске мы обсуждаем, как так получилось, что автошоу прекратили своё существование, хвалим игру Talos Principle 2 и саундбар от Philips, а также подробно обсуждаем геймплей Suicide Squad: Kille the Justice League, в альфа-версию которой мы поиграли. И это не считая нашего обычного обсуждения новостей и событий! Не болейте!</span><span id="more-3776"></span></p>
-<p><span style="font-weight: 400;">Подписывайтесь и ставьте лайк, а также не забудьте нажать на колокольчик на нашем ютубе – </span><a href="https://youtube.com/zavtracast"><span style="font-weight: 400;">https://youtube.com/zavtracast</span></a><span style="font-weight: 400;">    </span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">Если вы хотите нас поддержать из России, то подписывайтесь на нас на Boosty – </span><a href="https://boosty.to/zavtracast"><span style="font-weight: 400;">https://boosty.to/zavtracast</span></a> <span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">Если вы находитесь за границей, то можно подписаться на нас еще и на сервисе Patreon – </span><a href="https://patreon.com/zavtracast"><span style="font-weight: 400;">https://patreon.com/zavtracast</span></a><span style="font-weight: 400;"> </span></p>
-<p><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">Подписывайтесь на каналы ведущих в Телеграме: </span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;">&#8211; Радио Тимур – </span><a href="https://t.me/radiotimur"><span style="font-weight: 400;">https://t.me/radiotimur</span><span style="font-weight: 400;"><br />
-</span></a><span style="font-weight: 400;">&#8211; Фотодушнила – </span><a href="https://t.me/dushovato"><span style="font-weight: 400;">https://t.me/dushovato</span><span style="font-weight: 400;"><br />
-</span></a><span style="font-weight: 400;">&#8211; Сказки Дядюшки Зомбака – </span><a href="https://t.me/zombaktales"><span style="font-weight: 400;">https://t.me/zombaktales</span></a></p>
-<h3><span style="font-weight: 400;">Шоуноты</span></h3>
-<ol>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Новости Завтракаста: новый выпуск Магнитного Поля №12, “Кабинет лора” совсем скоро</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Слухи недели: скоро покажут GTA VI, Apple откажется от разработок 5G-модемов, о чём будет новая Call of Duty, как скоро выйдет Hellblade 2 и почему Ubisoft всё же решилась выпустить Skull and Bones</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Диме не понравился мультсериал Крапополис (Krapopolis)</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Драма в OpenAI закончилась, Сэм Альтман вернул своё кресло</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима поиграл в симулятор ходьбы Fort Solis</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Сказ о том, как Activision шантажировала Google, когда выйдет мобильный магазин от Microsoft и GamePass, возможно, появится на всём подряд</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Компания RELX продаёт Eurogamer и DigitalFoundry</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим и Дима про головоломку Talos Principle 2</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Автошоу мертвы: за полторы недели  закрылись Top Gear и The Grand Tour</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Запуск автомобиля Cybertruck прошёл так себе</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Disney в огне: Боб Айгер несёт ерунду, мультик “Заветное Желание с треском проваливается, а у DC дела тоже не то чтобы слишком хорошо идут</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима и Максим обсуждаем фильм “Оппенгеймер” Кристофера Нолана</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Завтракаст смотрит: трейлер “Фуриосы”, Path of Exile 2, Vampire The Masquerade &#8211; Bloodlines 2 и Homeworld 3</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Максим рассказывает про выбор саундбара с ATMOS и купленный по итогу Philips TAB7807/10</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Дима поиграл в альфу Suicide Squad: Kill the Justice League </span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;"> </span></li>
-</ol>
-<p><span style="font-weight: 400;">Мы хотим от всей души поблагодарить наших патронов, кто заносит нам больше всего денег на Boosty и Patreon:  just Rega, Oleksandr Danylenko, Олег Ончки, Michael Kúzhel, Aleksei Shelepov, Dmitrij Melkov, Ivan Danilenko, МишанИмпоссибл, Никита Бескорсый, Данатос, Женечка Калинин, Александр ДавЫгора, Wisebird, Цареубийца Джейми (Корг), hadarelv, Сахалинец, Лубневский Дима, Dirondin, Egor Ilyin, Evgeniy Petrunko, Nikita Strelnikov, Pavel Starikov, T Yu Jin, Artur Galiullin, Flexi, mrBurny, Alexey Karpov, Петя Третьяков, Продавец EUV-фотомасок, mrValery, Alex Kolov, Drag0n_Master_, PAVEL PETLICH, Iriya Grusti, FunkoPopRussia.com &#8211; фигурки в России, dui – телеграм канал о дизайне, Khelleos, Антон Ленский, Jack Vanilla, Ильин Егор, Лёд под ногами майора, Sergei Vaskov, Дмитрий, Nikolay Matrosov, mr Leroy, Михаил Аронов, ferzisdis, Charley, Valeriya Neborskaya, &#8212; две черточки, Петр Лаврентьев, Станислав Бартунский, Зомбарь ищущий работу, artdzen, Мятная Рысь, Артем Логинов, Денис Бондаренко, Grigoriy Yaffa, Денис Артюшин, fxfortrader.ru, Maksim Lebedev, drontosaur, Антон Zephon, Дмитрий Коробенков, Екатерина Александровна, Евгений Богомолов, Никитос СИОЗСный Насос, Montroiger, Nikita Strelnikov, Антон Кузнецов, NexonSU, Aleksey Pazdnikov и три Завтрашейха (три на патреоне, один на бусти), которые посчитали нужным остаться анонимными.</span></p>
-<p>Запись <a href="https://zavtracast.ru/298.html">Завтракаст 298 – Запомни её!</a> впервые появилась <a href="https://zavtracast.ru">Zavtracast</a>.</p>
-]]></content:encoded>
-					
-		
-				<enclosure url="https://media.blubrry.com/zavtracast/zavtracast.ru/p/zavtracast298-final.mp3" length="143098212" type="audio/mpeg" />
-
-				<itunes:image href="https://zavtracast.ru/p/zavtracast_new298.jpg" />
-		<itunes:season>9</itunes:season>
-		<podcast:season>9</podcast:season>
-		<itunes:episode>298</itunes:episode>
-		<podcast:episode>298</podcast:episode>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>2:28:50</itunes:duration>
 	</item>
 	</channel>
 </rss>
